@@ -1,0 +1,871 @@
+,name,ratings,reviews,sector,headquarter,c_old,employees
+0,TCS,3.9,16.1k Reviews,Public,Mumbai + 156 more,52 years old,10000+ employees
+1,Accenture,4.0,13.9k Reviews,Private,Dublin + 40 more,31 years old,10000+ employees
+2,ICICI Bank,4.1,12.6k Reviews,Public,Mumbai + 42 more,26 years old,10000+ employees
+3,Cognizant,3.9,12k Reviews,Private,Teaneck + 39 more,26 years old,10000+ employees
+4,HDFC Bank,4.0,10.8k Reviews,Public,Mumbai + 46 more,26 years old,10000+ employees
+5,Infosys,3.9,10.7k Reviews,Public,Bangalore + 40 more,39 years old,10000+ employees
+6,L&T,4.1,10.1k Reviews,Public,Mumbai + 45 more,82 years old,10000+ employees
+7,Capgemini,3.3,9.5k Reviews,Private,Paris + 36 more,53 years old,10000+ employees
+8,Tech Mahindra,3.5,9k Reviews,Public,Pune + 45 more,34 years old,10000+ employees
+9,HCL Technologies,3.7,8.6k Reviews,Public,Noida + 45 more,14 years old,10000+ employees
+10,Tata Motors,4.1,8.2k Reviews,Public,Pune + 45 more,75 years old,10000+ employees
+11,IBM,4.0,8.1k Reviews,Private,New York + 41 more,109 years old,10000+ employees
+12,Reliance jio,4.0,7.8k Reviews,Public,Navi Mumbai + 43 more,10 years old,10000+ employees
+13,Genpact,4.0,7.6k Reviews,Private,New York + 35 more,23 years old,10000+ employees
+14,Axis Bank,4.0,7.5k Reviews,Public,Mumbai + 46 more,27 years old,10000+ employees
+15,Wipro,3.8,6.4k Reviews,Public,Bangalore + 44 more,75 years old,10000+ employees
+16,Concentrix Daksh Service...,4.0,6.1k Reviews,New Delhi + 37 more,21 years old,10000+ employees,
+17,Vodafone,4.3,5.9k Reviews,Public,Berkshire + 50 more,38 years old,10000+ employees
+18,HDB Financial Services,4.0,5.4k Reviews,Private,Ahmedabad + 42 more,13 years old,10000+ employees
+19,Bharti Airtel,4.2,5.4k Reviews,Public,New Delhi + 47 more,25 years old,10000+ employees
+20,Kotak Mahindra Bank,3.8,5.1k Reviews,Public,Mumbai + 41 more,17 years old,10000+ employees
+21,Amazon,4.2,4.8k Reviews,Private,Washington + 44 more,26 years old,10000+ employees
+22,Reliance,4.2,4.5k Reviews,Public,Mumbai + 45 more,54 years old,10000+ employees
+23,Hinduja Global Solutions,3.9,4.1k Reviews,Public,Bangalore + 43 more,20 years old,10000+ employees
+24,Bajaj Finserv,4.1,3.7k Reviews,Public,Pune + 45 more,13 years old,10000+ employees
+25,IndusInd Bank,3.6,3.7k Reviews,Public,Mumbai + 43 more,26 years old,10000+ employees
+26,Samsung,4.2,3.5k Reviews,Private,Seoul + 45 more,82 years old,10000+ employees
+27,Indian Army,4.7,3.4k Reviews,Govt agency,New Delhi + 44 more,125 years old,10000+ employees
+28,Mahindra & Mahindra,4.3,3.2k Reviews,Public,Mumbai + 45 more,75 years old,10000+ employees
+29,Ericsson,4.1,3.1k Reviews,Private,Stockholm + 44 more,144 years old,10000+ employees
+30,Maruti Suzuki,4.2,3.1k Reviews,Public,"New Delhi,India + 44 more",39 years old,10000+ employees
+31,IDEA Cellular,4.3,3k Reviews,Partnership,Mumbai + 43 more,25 years old,10000+ employees
+32,Intelenet Global Service...,3.7,2.9k Reviews,Private,Mumbai + 38 more,20 years old,10000+ employees
+33,WNS,3.7,2.8k Reviews,Private,Mumbai + 18 more,24 years old,10000+ employees
+34,Teleperformance,3.8,2.8k Reviews,Private,Paris + 40 more,42 years old,10000+ employees
+35,Reliance Retail,4.2,2.8k Reviews,Private,Mumbai + 44 more,14 years old,10000+ employees
+36,ICICI Prudential Life In...,4.2,2.7k Reviews,Public,Mumbai + 43 more,19 years old,10000+ employees
+37,Cipla Pharmaceutical,4.0,2.7k Reviews,Public,Mumbai + 45 more,85 years old,10000+ employees
+38,Aegis Global,3.6,2.6k Reviews,Private,Mumbai + 37 more,37 years old,10000+ employees
+39,HSBC,4.1,2.6k Reviews,Private,London + 38 more,155 years old,10000+ employees
+40,Janalakshmi Financial Se...,3.8,2.6k Reviews,Public,Bangalore + 40 more,12 years old,10000+ employees
+41,Reliance Communications,3.9,2.6k Reviews,Public,Navi Mumbai + 45 more,18 years old,10000+ employees
+42,Dr. Reddy's,4.2,2.5k Reviews,Public,Hyderabad + 46 more,36 years old,10000+ employees
+43,Sutherland Global Servic...,3.9,2.5k Reviews,Private,Pittsford + 20 more,34 years old,10000+ employees
+44,DXC Technology,3.2,2.4k Reviews,Public,Tysons + 24 more,3 years old,10000+ employees
+45,Hewlett-Packard,4.3,2.4k Reviews,Private,California + 43 more,81 years old,10000+ employees
+46,Future Group,4.2,2.4k Reviews,Private,Mumbai + 48 more,33 years old,10000+ employees
+47,Home Credit Finance,4.0,2.3k Reviews,Private,Gurugram + 44 more,8 years old,10000+ employees
+48,Aditya Birla Fashion and...,4.2,2.3k Reviews,Private,Mumbai + 46 more,5 years old,10000+ employees
+49,Mphasis,3.8,2.3k Reviews,Public,Bangalore + 31 more,20 years old,10000+ employees
+50,Bajaj Allianz Life Insur...,4.1,2.3k Reviews,Private,Pune + 43 more,19 years old,10000+ employees
+51,Yes Bank,3.8,2.2k Reviews,Public,Mumbai + 45 more,16 years old,10000+ employees
+52,Flipkart,4.3,2.2k Reviews,Private,Bangalore + 48 more,13 years old,10000+ employees
+53,Lupin,4.2,2.2k Reviews,Public,Mumbai + 47 more,52 years old,10000+ employees
+54,WIPRO CONSUMER CARE & LI...,3.8,2.1k Reviews,Private,Bengaluru + 46 more,75 years old,5001-10000 employees
+55,OPPO,4.0,2.1k Reviews,Public,Shenzhen + 45 more,16 years old,10000+ employees
+56,Ernst & Young,3.8,2.1k Reviews,Private,London + 43 more,31 years old,10000+ employees
+57,HDFC LIFE,4.0,2.1k Reviews,Partnership,Mumbai + 44 more,20 years old,10000+ employees
+58,PayTM,4.0,2k Reviews,Private,Noida + 46 more,10 years old,10000+ employees
+59,Asian Paints,4.3,2k Reviews,Public,Mumbai + 46 more,78 years old,5001-10000 employees
+60,Unilever,4.4,2k Reviews,Public,London + 49 more,91 years old,10000+ employees
+61,Nokia,4.3,2k Reviews,Private,Espoo + 47 more,155 years old,10000+ employees
+62,Deloitte,3.9,2k Reviews,Private,New York + 31 more,175 years old,10000+ employees
+63,Wipro Infotech,3.9,2k Reviews,Private,Bangalore + 43 more,75 years old,10000+ employees
+64,Wipro BPS,3.8,1.9k Reviews,Bengaluru + 25 more,20 years old,10000+ employees,
+65,Shriram Transport Financ...,4.1,1.9k Reviews,Public,Mumbai + 46 more,41 years old,10000+ employees
+66,Ashok Leyland,4.3,1.9k Reviews,Public,Chennai + 44 more,72 years old,10000+ employees
+67,Shapoorji Pallonji,4.3,1.9k Reviews,Private,Mumbai + 48 more,155 years old,10000+ employees
+68,Axis Securities,4.0,1.9k Reviews,Private,Mumbai + 46 more,15 years old,10000+ employees
+69,Hyundai Motor,4.3,1.9k Reviews,Private,Seoul + 44 more,53 years old,10000+ employees
+70,Sun Pharmaceutical Indus...,4.0,1.9k Reviews,Public,Mumbai + 46 more,37 years old,10000+ employees
+71,Vivo Smartphone,4.0,1.9k Reviews,Private,Dongguan + 46 more,11 years old,10000+ employees
+72,Zydus Cadila,4.0,1.9k Reviews,Public,"Ahmedabad, India + 47 more",68 years old,10000+ employees
+73,ITC,4.1,1.8k Reviews,Public,Kolkata + 45 more,110 years old,10000+ employees
+74,Apollo Hospitals,4.1,1.8k Reviews,Public,Chennai + 45 more,37 years old,10000+ employees
+75,UltraTech Cement,4.4,1.8k Reviews,Public,Mumbai + 47 more,37 years old,10000+ employees
+76,Muthoot Fincorp,3.9,1.8k Reviews,Private,Kochi + 46 more,133 years old,10000+ employees
+77,Mahindra & Mahindra Fina...,4.3,1.8k Reviews,Mumbai + 46 more,29 years old,10000+ employees,
+78,NTT DATA,3.6,1.8k Reviews,Private,"Tokyo, JAPAN + 20 more",32 years old,10000+ employees
+79,Dominos Pizza,4.2,1.8k Reviews,Public,Ann Arbor + 45 more,60 years old,10000+ employees
+80,IIFL,3.8,1.8k Reviews,Public,Mumbai + 43 more,25 years old,10000+ employees
+81,IDFC FIRST Bank,4.0,1.7k Reviews,Public,Mumbai + 49 more,26 years old,5001-10000 employees
+82,Bosch,4.2,1.7k Reviews,Public,Sttugart + 48 more,134 years old,10000+ employees
+83,TVS Motor,4.2,1.7k Reviews,Public,Hosur + 47 more,41 years old,5001-10000 employees
+84,Ujjivan Small Finance Ba...,4.1,1.7k Reviews,Public,Bengaluru + 43 more,3 years old,10000+ employees
+85,UnitedHealth,4.1,1.7k Reviews,Private,Minnesota + 10 more,43 years old,10000+ employees
+86,EXL Service,3.8,1.7k Reviews,Private,"New York, USA + 16 more",21 years old,10000+ employees
+87,Wipro Enterprises Ltd,3.7,1.7k Reviews,Bangalore + 41 more,75 years old,10000+ employees,
+88,JBM Group,4.0,1.6k Reviews,Public,Gurugram + 47 more,37 years old,10000+ employees
+89,eClerx,3.7,1.6k Reviews,Public,Mumbai + 12 more,20 years old,5001-10000 employees
+90,Aurobindo Pharma,4.1,1.6k Reviews,Public,Hyderabad + 25 more,34 years old,10000+ employees
+91,Hero MotoCorp,4.2,1.6k Reviews,Public,New Delhi + 45 more,36 years old,10000+ employees
+92,NIIT Technologies,3.8,1.6k Reviews,Public,Noida + 46 more,16 years old,5001-10000 employees
+93,Muthoot Group,3.8,1.6k Reviews,Public,New Delhi + 45 more,133 years old,10000+ employees
+94,Simplex Infrastructures,3.8,1.5k Reviews,Public,Kolkata + 44 more,96 years old,5001-10000 employees
+95,Cyient,3.6,1.5k Reviews,Public,Hyderabad + 20 more,29 years old,10000+ employees
+96,Oracle,3.7,1.5k Reviews,Private,California + 25 more,43 years old,10000+ employees
+97,Mylan Laboratories,4.2,1.5k Reviews,Private,"Canonsburg,Pennsylvania + 37 more",59 years old,10000+ employees
+98,Syntel,3.5,1.5k Reviews,Private,Troy + 12 more,40 years old,10000+ employees
+99,Max Life Insurance,4.3,1.5k Reviews,Partnership,Gurugram + 48 more,20 years old,10000+ employees
+100,Fidelity National Inform...,3.9,1.5k Reviews,Private,Florida + 20 more,52 years old,10000+ employees
+101,JP Morgan Chase,4.1,1.5k Reviews,Private,New York + 8 more,221 years old,10000+ employees
+102,Tata Teleservices,4.3,1.4k Reviews,Public,Mumbai + 47 more,24 years old,1001-5000 employees
+103,JustDial,3.8,1.4k Reviews,Public,Mumbai + 46 more,24 years old,10000+ employees
+104,Siemens India,4.2,1.4k Reviews,Public,Mumbai + 46 more,153 years old,1001-5000 employees
+105,Lava International,4.1,1.4k Reviews,Public,Noida + 44 more,11 years old,10000+ employees
+106,PwC,3.6,1.4k Reviews,Partnership,New York + 38 more,22 years old,10000+ employees
+107,First Source,4.0,1.4k Reviews,Public,Mumbai + 30 more,19 years old,10000+ employees
+108,Arvind Group,4.3,1.4k Reviews,Public,Ahmedabad + 45 more,89 years old,10000+ employees
+109,Dell,4.1,1.4k Reviews,Private,Texas + 41 more,36 years old,10000+ employees
+110,State Bank of India,4.1,1.4k Reviews,Private,Mumbai + 46 more,65 years old,10000+ employees
+111,Manappuram Finance,3.9,1.4k Reviews,Public,Thrissur + 45 more,71 years old,10000+ employees
+112,Motherson Sumi Systems,3.9,1.4k Reviews,Public,Noida + 44 more,34 years old,10000+ employees
+113,Oyo Rooms,3.5,1.3k Reviews,Private,Gurgaon + 46 more,7 years old,10000+ employees
+114,Godrej & Boyce Manufactu...,4.0,1.3k Reviews,Private,Mumbai + 44 more,123 years old,10000+ employees
+115,Larsen & Toubro Infotech,3.6,1.3k Reviews,Public,Mumbai + 43 more,24 years old,10000+ employees
+116,TATA Steel,4.2,1.3k Reviews,Public,Mumbai + 47 more,113 years old,10000+ employees
+117,Abbott Healthcare,4.2,1.3k Reviews,Public,Illinois + 48 more,132 years old,10000+ employees
+118,McDonald's,4.3,1.3k Reviews,Private,Chicago + 47 more,66 years old,10000+ employees
+119,LG Electronics,4.1,1.3k Reviews,Public,Greater Noida + 44 more,23 years old,10000+ employees
+120,NCC,4.2,1.3k Reviews,Public,Hyderabad + 44 more,42 years old,5001-10000 employees
+121,Renault-Nissan,4.0,1.3k Reviews,Partnership,Amsterdam + 44 more,21 years old,10000+ employees
+122,Fullerton India,4.2,1.3k Reviews,Private,Mumbai + 44 more,13 years old,10000+ employees
+123,Gati kwe,4.0,1.3k Reviews,Private,Hyderabad + 44 more,8 years old,5001-10000 employees
+124,JSW Steel,4.0,1.3k Reviews,Public,Mumbai + 44 more,38 years old,10000+ employees
+125,Suzlon Group,4.1,1.3k Reviews,Public,Pune + 45 more,25 years old,5001-10000 employees
+126,Ford Motor,4.4,1.3k Reviews,Private,Michigan + 43 more,117 years old,10000+ employees
+127,RBS,4.1,1.3k Reviews,Private,Edinburgh + 18 more,293 years old,10000+ employees
+128,Tata Communications,4.2,1.3k Reviews,Public,Mumbai + 43 more,34 years old,10000+ employees
+129,Shoppers Stop,4.3,1.3k Reviews,Public,Mumbai + 42 more,29 years old,10000+ employees
+130,Hindustan Coca Cola Beve...,4.4,1.3k Reviews,Private,Bangalore + 44 more,23 years old,10000+ employees
+131,Sodexo,4.2,1.3k Reviews,Private,Paris + 45 more,54 years old,10000+ employees
+132,Mindtree,3.8,1.3k Reviews,Public,Bangalore + 14 more,21 years old,10000+ employees
+133,TAFE - Tractors and Farm...,4.2,1.2k Reviews,Public,Chennai + 43 more,60 years old,5001-10000 employees
+134,Omega Healthcare,3.9,1.2k Reviews,Private,Florida + 13 more,16 years old,10000+ employees
+135,Royal Enfield,4.2,1.2k Reviews,Private,Chennai + 43 more,119 years old,10000+ employees
+136,Atos,3.8,1.2k Reviews,Private,Bezons + 20 more,23 years old,10000+ employees
+137,Bajaj Auto,4.1,1.2k Reviews,Public,Pune + 47 more,75 years old,10000+ employees
+138,Subros,4.0,1.2k Reviews,Public,New Delhi + 19 more,35 years old,1001-5000 employees
+139,Bandhan Bank,3.8,1.2k Reviews,Public,Pune + 47 more,12 years old,10000+ employees
+140,AU Small Finance Bank,3.8,1.2k Reviews,Private,Jaipur + 46 more,24 years old,10000+ employees
+141,Hetero Drugs,4.0,1.2k Reviews,Private,Hyderabad + 15 more,27 years old,10000+ employees
+142,Megha Engineering and In...,4.3,1.2k Reviews,Private,Hyderabad + 45 more,31 years old,5001-10000 employees
+143,Honda,4.2,1.2k Reviews,Private,Tokyo + 48 more,72 years old,10000+ employees
+144,iEnergizer,3.6,1.2k Reviews,Private,Noida + 8 more,20 years old,10000+ employees
+145,JLL,4.3,1.1k Reviews,Private,Illinois + 42 more,23 years old,10000+ employees
+146,Thermax,4.2,1.1k Reviews,Public,Pune + 44 more,54 years old,10000+ employees
+147,Huawei Technologies,3.6,1.1k Reviews,Private,Shenzhen + 45 more,33 years old,10000+ employees
+148,KPMG,3.7,1.1k Reviews,Partnership,Amstelveen + 32 more,33 years old,10000+ employees
+149,Equitas Small Finance Ba...,3.8,1.1k Reviews,Private,Chennai + 46 more,13 years old,10000+ employees
+150,Cgi Group,3.9,1.1k Reviews,Private,Montreal + 7 more,44 years old,10000+ employees
+151,PepsiCo,4.4,1.1k Reviews,Private,New York + 46 more,122 years old,10000+ employees
+152,Schneider Electric,4.2,1.1k Reviews,Private,Rueil-Malmaison + 45 more,184 years old,10000+ employees
+153,HCL Infosystems,3.9,1.1k Reviews,Public,Noida + 49 more,44 years old,10000+ employees
+154,DTDC Express,3.9,1.1k Reviews,Private,Bangalore + 44 more,30 years old,10000+ employees
+155,Titan Company,4.4,1.1k Reviews,Public,Bangalore + 48 more,36 years old,5001-10000 employees
+156,Future Retail,4.2,1.1k Reviews,Public,Mumbai + 45 more,33 years old,10000+ employees
+157,SBI Life Insurance Compa...,3.9,1.1k Reviews,Public,Mumbai + 47 more,20 years old,10000+ employees
+158,Hexaware Technologies,3.5,1.1k Reviews,Public,Mumbai + 14 more,30 years old,10000+ employees
+159,Reliance Life Insurance,3.8,1.1k Reviews,Private,Mumbai + 45 more,19 years old,10000+ employees
+160,John Deere,4.4,1.1k Reviews,Private,Moline + 46 more,183 years old,10000+ employees
+161,CMS IT Services,3.2,1.1k Reviews,Private,Bengaluru + 47 more,44 years old,5001-10000 employees
+162,ABB Group,4.2,1.1k Reviews,Public,Zurich + 48 more,32 years old,10000+ employees
+163,Fortis Healthcare,4.1,1.1k Reviews,Public,Gurugram + 44 more,19 years old,10000+ employees
+164,CBRE,4.2,1.1k Reviews,Private,Los Angeles + 33 more,114 years old,10000+ employees
+165,State Street Syntel,3.8,1.1k Reviews,Private,Mumbai + 5 more,40 years old,10000+ employees
+166,Ipca Laboratories,4.0,1.1k Reviews,Public,Mumbai + 48 more,71 years old,10000+ employees
+167,Glenmark Pharmaceuticals,4.1,1.1k Reviews,Public,Mumbai + 45 more,43 years old,10000+ employees
+168,BNY Mellon,3.9,1.1k Reviews,Private,New York + 5 more,236 years old,10000+ employees
+169,Life Insurance Corporati...,4.4,1k Reviews,Private,Mumbai + 43 more,64 years old,10000+ employees
+170,Kec International,4.3,1k Reviews,Public,Mumbai + 44 more,75 years old,5001-10000 employees
+171,SBI Cards & Payment Serv...,4.0,1k Reviews,Private,Gurugram + 46 more,22 years old,1001-5000 employees
+172,VE Commercial Vehicles,4.1,1k Reviews,Private,Gurugram + 48 more,12 years old,10000+ employees
+173,Standard Chartered Bank,4.0,1k Reviews,Private,London + 42 more,51 years old,10000+ employees
+174,Bel,4.4,1k Reviews,Private,Bangalore + 21 more,66 years old,10000+ employees
+175,Eureka Forbes,4.0,1k Reviews,Private,Mumbai + 46 more,38 years old,10000+ employees
+176,Dewan Housing Finance Co...,4.4,1k Reviews,Public,Mumbai + 44 more,36 years old,1001-5000 employees
+177,Landmark Group,4.2,1k Reviews,Private,Dubai + 49 more,47 years old,10000+ employees
+178,Bhushan Power & Steel,3.8,1k Reviews,Private,New Delhi + 38 more,50 years old,5001-10000 employees
+179,Pfizer,4.4,1k Reviews,Public,New York + 44 more,171 years old,10000+ employees
+180,Intas Pharmaceuticals,4.2,1k Reviews,Private,Ahmedabad + 46 more,36 years old,10000+ employees
+181,Honda Motorcycle & Scoot...,4.2,1k Reviews,Private,Gurugram + 47 more,21 years old,1001-5000 employees
+182,Torrent Pharmaceuticals,4.2,1k Reviews,Public,Ahmedabad + 48 more,61 years old,10000+ employees
+183,Rivigo,3.8,1k Reviews,Private,Gurgaon + 49 more,6 years old,10000+ employees
+184,Havells,4.2,1k Reviews,Public,Noida + 45 more,62 years old,10000+ employees
+185,ICICI Lombard General In...,4.0,997 Reviews,Public,Mumbai + 47 more,19 years old,5001-10000 employees
+186,Cholamandalam Investment...,4.2,995 Reviews,Private,Chennai + 43 more,42 years old,10000+ employees
+187,Alkem Laboratories,4.1,992 Reviews,Public,Mumbai + 49 more,47 years old,10000+ employees
+188,KPIT Technologies,3.6,991 Reviews,Private,Pune + 17 more,26 years old,5001-10000 employees
+189,ACC,4.2,991 Reviews,Public,Mumbai + 48 more,84 years old,10000+ employees
+190,Cummins Sales and Servic...,4.3,990 Reviews,Private,Columbus + 47 more,101 years old,1001-5000 employees
+191,Deutsche Bank AG,4.1,989 Reviews,Frankfurt + 21 more,150 years old,10000+ employees,
+192,Jindal Steel and Power,4.1,986 Reviews,Private,New Delhi + 49 more,68 years old,10000+ employees
+193,Indian Oil Corporation,4.4,986 Reviews,Private,New Delhi + 48 more,61 years old,10000+ employees
+194,UST Global,3.8,983 Reviews,Private,Aliso Viejo + 21 more,21 years old,10000+ employees
+195,IQVIA,4.0,983 Reviews,Partnership,Durham + 23 more,38 years old,10000+ employees
+196,Varun Beverages,4.1,982 Reviews,Public,Gurgaon + 47 more,25 years old,1001-5000 employees
+197,Ecom Express,4.1,975 Reviews,Private,Gurugram + 47 more,8 years old,10000+ employees
+198,Indiamart Intermesh,3.7,969 Reviews,Private,Noida + 45 more,24 years old,1001-5000 employees
+199,G4S,4.2,964 Reviews,Private,London + 48 more,119 years old,10000+ employees
+200,Aircel,4.3,959 Reviews,Private,Mumbai + 47 more,21 years old,5001-10000 employees
+201,Flextronics Technologies,4.0,955 Reviews,Private,San Jose + 18 more,51 years old,10000+ employees
+202,L & T Finance,4.1,953 Reviews,Public,Mumbai + 46 more,26 years old,10000+ employees
+203,Bajaj Electricals,4.3,953 Reviews,Public,Mumbai + 49 more,82 years old,10000+ employees
+204,D Mart,4.2,945 Reviews,Private,Mumbai + 47 more,20 years old,1001-5000 employees
+205,Dabur,4.3,929 Reviews,Public,New Delhi + 46 more,136 years old,10000+ employees
+206,Radisson Hotels,4.2,929 Reviews,Private,Brussels + 46 more,60 years old,10000+ employees
+207,Indian Navy,4.7,928 Reviews,Private,New Delhi + 42 more,73 years old,10000+ employees
+208,Macleods Pharmaceuticals,4.1,927 Reviews,Public,Mumbai + 46 more,34 years old,5001-10000 employees
+209,American Express,4.3,923 Reviews,Public,New York + 24 more,170 years old,10000+ employees
+210,Apollo Tyres,4.3,923 Reviews,Public,Gurgaon + 48 more,48 years old,10000+ employees
+211,Hindalco Industries,4.3,910 Reviews,Public,Mumbai + 46 more,62 years old,10000+ employees
+212,Videocon d2h,3.8,908 Reviews,Public,Mumbai + 47 more,11 years old,5001-10000 employees
+213,Alembic Pharmaceuticals,4.1,908 Reviews,Public,Vadodara + 48 more,113 years old,10000+ employees
+214,RSPL Group,4.0,908 Reviews,Private,Kanpur + 48 more,32 years old,10000+ employees
+215,BHEL,4.4,904 Reviews,Private,New Delhi + 46 more,64 years old,10000+ employees
+216,Delhi Public School,4.0,904 Reviews,Private,Delhi + 47 more,71 years old,10000+ employees
+217,Capita,3.6,898 Reviews,Private,"London,England + 6 more",36 years old,10000+ employees
+218,MAGMA Fincorp,4.2,897 Reviews,Public,Kolkata + 47 more,32 years old,10000+ employees
+219,Maersk Global Service Ce...,4.2,895 Reviews,Private,Copenhagen + 9 more,21 years old,10000+ employees
+220,Patanjali Ayurved,3.8,890 Reviews,Private,New Delhi + 48 more,14 years old,10000+ employees
+221,Wells Fargo,4.1,879 Reviews,Private,San Francisco + 8 more,168 years old,10000+ employees
+222,DCB Bank,3.9,877 Reviews,Private,Mumbai + 44 more,90 years old,5001-10000 employees
+223,Thomson Reuters,4.2,873 Reviews,Private,Toronto + 16 more,12 years old,10000+ employees
+224,Amdocs,4.0,872 Reviews,Private,Chesterfield + 6 more,38 years old,10000+ employees
+225,Team Lease,4.0,869 Reviews,Public,Bangalore + 48 more,18 years old,10000+ employees
+226,TVS Sundram Fasteners,4.0,862 Reviews,Public,Chennai + 24 more,54 years old,10000+ employees
+227,Karvy Fintech,3.6,859 Reviews,Hyderabad + 46 more,42 years old,5001-10000 employees,
+228,Big Bazaar,4.3,859 Reviews,Private,Mumbai + 42 more,19 years old,10000+ employees
+229,Pidilite Industries,4.4,858 Reviews,Public,Mumbai + 44 more,61 years old,1001-5000 employees
+230,Max Healthcare,4.1,853 Reviews,Partnership,New Delhi + 41 more,35 years old,1001-5000 employees
+231,Rane TRW Steering System...,4.1,853 Reviews,Private,Chennai + 41 more,33 years old,5001-10000 employees
+232,Ceat Tyres,4.3,847 Reviews,Public,Mumbai + 47 more,62 years old,10000+ employees
+233,Delhivery,4.1,845 Reviews,Private,Gurgaon + 47 more,9 years old,10000+ employees
+234,Nestle,4.2,839 Reviews,Public,Vevey + 47 more,154 years old,10000+ employees
+235,Adani Power,4.3,835 Reviews,Public,Ahmedabad + 47 more,24 years old,1001-5000 employees
+236,Jet Airways,4.5,832 Reviews,Public,Mumbai + 41 more,27 years old,10000+ employees
+237,Wockhardt,4.2,828 Reviews,Public,Mumbai + 48 more,21 years old,5001-10000 employees
+238,Lifestyle,4.4,826 Reviews,Private,Bangalore + 48 more,21 years old,10000+ employees
+239,24/7 Customer,3.8,822 Reviews,Private,San Jose + 6 more,20 years old,10000+ employees
+240,Vishal Mega Mart,4.0,819 Reviews,Private,Gurugram + 46 more,34 years old,5001-10000 employees
+241,Dilip Buildcon,4.1,816 Reviews,Public,Bhopal + 46 more,32 years old,10000+ employees
+242,café Coffee day,4.0,813 Reviews,Private,Banglore + 41 more,24 years old,10000+ employees
+243,Voltas,4.2,808 Reviews,Public,Mumbai + 46 more,66 years old,10000+ employees
+244,Edelweiss,3.9,808 Reviews,Public,Mumbai + 47 more,25 years old,10000+ employees
+245,Yamaha Motor,4.0,808 Reviews,Private,Iwata + 43 more,65 years old,10000+ employees
+246,JMC Projects,4.2,798 Reviews,Public,Mumbai + 47 more,38 years old,5001-10000 employees
+247,Blue Star,4.2,795 Reviews,Public,Mumbai + 47 more,77 years old,10000+ employees
+248,Kotak Mahindara Life Ins...,3.9,791 Reviews,Mumbai + 46 more,19 years old,10000+ employees,
+249,MRF Tyres,3.8,791 Reviews,Public,Chennai + 44 more,74 years old,10000+ employees
+250,Birla Sun Life Insurance,4.2,790 Reviews,Partnership,Mumbai + 47 more,20 years old,10000+ employees
+251,Exide Industries,4.0,789 Reviews,Public,Kolkata + 45 more,100 years old,10000+ employees
+252,Exide Life Insurance,3.7,787 Reviews,Private,Bengaluru + 45 more,19 years old,10000+ employees
+253,PNB MetLife,3.8,786 Reviews,Private,Mumbai + 44 more,19 years old,10000+ employees
+254,AFCONS Infrastructure,4.4,786 Reviews,Partnership,Mumbai + 38 more,61 years old,5001-10000 employees
+255,Itc Infotech India,3.4,776 Reviews,Private,Kolkata + 26 more,20 years old,10000+ employees
+256,RBL Bank,3.8,773 Reviews,Public,Mumbai + 45 more,77 years old,10000+ employees
+257,PVR Cinemas,4.2,771 Reviews,Public,Gurgaon + 45 more,23 years old,10000+ employees
+258,Aakash Institute,3.5,766 Reviews,Private,New Delhi + 46 more,32 years old,1001-5000 employees
+259,Blue Dart Express,4.1,763 Reviews,Public,Mumbai + 48 more,37 years old,10000+ employees
+260,Biocon,4.2,762 Reviews,Public,Bangalore + 44 more,42 years old,10000+ employees
+261,Ajanta Pharma,3.9,762 Reviews,Public,Mumbai + 45 more,47 years old,5001-10000 employees
+262,Tata Motors Finance,4.3,760 Reviews,Private,Thane + 47 more,63 years old,1001-5000 employees
+263,Bank of America,4.3,758 Reviews,Private,Charlotte + 19 more,22 years old,10000+ employees
+264,Micro Labs,3.8,753 Reviews,Private,Bangalore + 46 more,47 years old,10000+ employees
+265,Ola Cabs,4.0,750 Reviews,Private,Bangalore + 46 more,10 years old,10000+ employees
+266,Tata AIA Life Insurance,3.9,750 Reviews,Private,Mumbai + 47 more,19 years old,10000+ employees
+267,Sterling & Wilson,4.1,749 Reviews,Private,Mumbai + 45 more,93 years old,5001-10000 employees
+268,Punj Lloyd,4.2,748 Reviews,Public,Gurugram + 46 more,32 years old,5001-10000 employees
+269,Emcure Pharmaceuticals,3.7,747 Reviews,Private,Pune + 47 more,39 years old,10000+ employees
+270,Udaan,4.2,747 Reviews,Private,Bangalore + 47 more,4 years old,1001-5000 employees
+271,3i Infotech,3.8,743 Reviews,Public,Mumbai + 49 more,27 years old,5001-10000 employees
+272,Welspun Group,4.2,743 Reviews,Public,Mumbai + 25 more,35 years old,10000+ employees
+273,Ambuja Cements,4.2,741 Reviews,Public,Mumbai + 49 more,37 years old,10000+ employees
+274,Force Motors,3.8,740 Reviews,Public,Pune + 44 more,62 years old,10000+ employees
+275,Randstad,4.0,739 Reviews,Private,Diemen + 47 more,60 years old,10000+ employees
+276,Mankind Pharma,4.1,739 Reviews,Private,New Delhi + 48 more,25 years old,10000+ employees
+277,BigBasket,4.1,738 Reviews,Private,Bangalore + 31 more,9 years old,5001-10000 employees
+278,Shahi Exports,4.2,736 Reviews,Private,Faridabad + 29 more,46 years old,10000+ employees
+279,Tata Capital Financial S...,4.2,728 Reviews,Public,Mumbai + 46 more,13 years old,5001-10000 employees
+280,Mahindra Holidays & Reso...,3.8,725 Reviews,Private,Mumbai + 47 more,24 years old,10000+ employees
+281,JK Tyres,3.9,725 Reviews,Private,New Delhi + 49 more,69 years old,10000+ employees
+282,I Process Services,3.7,725 Reviews,Private,New Delhi + 46 more,15 years old,10000+ employees
+283,Karvy Data Management Se...,3.6,723 Reviews,Private,Hyderabad + 44 more,12 years old,1001-5000 employees
+284,Indiabulls,4.0,720 Reviews,Public,Mumbai + 48 more,20 years old,10000+ employees
+285,ACT Fibernet,4.1,719 Reviews,Private,Bangalore + 22 more,12 years old,5001-10000 employees
+286,Sobha,4.2,716 Reviews,Public,Bangalore + 23 more,25 years old,1001-5000 employees
+287,Amara Raja Group,4.1,714 Reviews,Public,Tirupati + 48 more,35 years old,10000+ employees
+288,Computer Sciences Corpor...,3.5,713 Reviews,Private,Virginia + 29 more,61 years old,10000+ employees
+289,Raymond,4.3,713 Reviews,Public,Mumbai + 48 more,95 years old,10000+ employees
+290,Cholamandalam MS General...,4.1,713 Reviews,Joint Venture,Chennai + 45 more,19 years old,10000+ employees
+291,Power Mech Projects,3.9,712 Reviews,Public,Hyderabad + 44 more,21 years old,10000+ employees
+292,GSK Pharmaceuticals,4.3,710 Reviews,Gothenberg + 46 more,93 years old,10000+ employees,
+293,Vertex Customer Solution...,3.7,709 Reviews,Private,Panchkula + 30 more,10 years old,10000+ employees
+294,Conduent,3.5,703 Reviews,Private,"Florham Park,New Jersey + 12 more",3 years old,10000+ employees
+295,GlobalLogic,3.7,701 Reviews,Private,San Jose + 14 more,20 years old,10000+ employees
+296,Emami,3.9,701 Reviews,Public,Kolkata + 45 more,46 years old,10000+ employees
+297,Nayara Energy,4.2,700 Reviews,Mumbai + 46 more,31 years old,10000+ employees,
+298,IDBI Bank,4.0,699 Reviews,Public,Mumbai + 44 more,56 years old,10000+ employees
+299,Indus Towers,4.1,697 Reviews,Private,Gurgaon + 49 more,13 years old,10000+ employees
+300,Brakes India,4.2,697 Reviews,Partnership,Chennai + 37 more,58 years old,5001-10000 employees
+301,Aon Hewitt,3.9,695 Reviews,Private,London + 11 more,80 years old,10000+ employees
+302,Essar Steel,4.0,695 Reviews,Private,Mumbai + 26 more,22 years old,10000+ employees
+303,Virtusa Consulting Servi...,3.3,687 Reviews,Private,Southborough + 12 more,24 years old,10000+ employees
+304,Quess,4.0,686 Reviews,Public,Bangalore + 46 more,13 years old,10000+ employees
+305,Iksula,4.1,685 Reviews,Partnership,Mumbai + 47 more,13 years old,1001-5000 employees
+306,Reliance Digital,4.2,684 Reviews,Private,Mumbai + 44 more,13 years old,10000+ employees
+307,Tata AIG General Insuran...,3.9,681 Reviews,Private,Mumbai + 45 more,19 years old,1001-5000 employees
+308,GVK Emergency Management...,3.9,678 Reviews,Partnership,Hyderabad + 45 more,15 years old,10000+ employees
+309,Hindustan Aeronautical,4.3,673 Reviews,Private,Bangalore + 23 more,80 years old,10000+ employees
+310,ICICI Securities,3.8,670 Reviews,Public,Mumbai + 46 more,25 years old,5001-10000 employees
+311,Zensar Technologies,3.4,669 Reviews,Public,Pune + 10 more,29 years old,10000+ employees
+312,CMS Infosystems,3.7,669 Reviews,Private,Mumbai + 46 more,11 years old,10000+ employees
+313,Bharti AXA Life Insuranc...,3.9,669 Reviews,Private,Mumbai + 48 more,14 years old,1001-5000 employees
+314,Berger Paints,3.9,666 Reviews,Public,West Bengal + 48 more,97 years old,5001-10000 employees
+315,Gabriel India,4.3,662 Reviews,Public,Pune + 26 more,59 years old,10000+ employees
+316,Parle Products,4.0,661 Reviews,Private,Mumbai + 47 more,91 years old,10000+ employees
+317,Dainik Bhaskar Group Of ...,3.9,660 Reviews,Public,Bhopal + 50 more,62 years old,10000+ employees
+318,PolicyBazaar,3.7,659 Reviews,Private,Gurgaon + 7 more,12 years old,5001-10000 employees
+319,Britannia,4.2,657 Reviews,Public,Bangalore + 49 more,128 years old,10000+ employees
+320,HDFC Ergo General Insura...,4.1,656 Reviews,Public,Mumbai + 46 more,18 years old,1001-5000 employees
+321,Godrej Group,4.2,654 Reviews,Public,Mumbai + 47 more,123 years old,10000+ employees
+322,Oberoi Group of Hotels,4.4,654 Reviews,Private,Delhi + 24 more,86 years old,10000+ employees
+323,Lucas-TVS,4.1,653 Reviews,Private,Chennai + 32 more,57 years old,5001-10000 employees
+324,Delphi TVS,4.2,653 Reviews,Private,Tamil Nadu + 18 more,31 years old,10000+ employees
+325,Dalmia Bharat Cement,4.2,653 Reviews,Public,New Delhi + 46 more,81 years old,10000+ employees
+326,ADP Solutions,4.1,652 Reviews,Private,New Jersey + 7 more,71 years old,10000+ employees
+327,Aricent,3.6,649 Reviews,Private,California + 11 more,29 years old,10000+ employees
+328,Sigma Electric Manufactu...,3.9,649 Reviews,Private,Sigma Drive Garner + 9 more,38 years old,5001-10000 employees
+329,The Himalaya Drug Compan...,4.3,648 Reviews,Private,Bangalore + 50 more,90 years old,10000+ employees
+330,The Jaypee Group,4.1,645 Reviews,Public,Noida + 47 more,62 years old,10000+ employees
+331,KFC,4.3,641 Reviews,Private,Plano + 47 more,68 years old,10000+ employees
+332,Deloitte Support Service...,4.0,640 Reviews,Hyderabad + 18 more,16 years old,1001-5000 employees,
+333,Crompton Greaves,4.1,639 Reviews,Public,Mumbai + 49 more,142 years old,10000+ employees
+334,Panasonic,4.1,638 Reviews,Private,Osaka + 42 more,102 years old,10000+ employees
+335,Whirlpool,4.0,637 Reviews,Public,Benton Harbor + 46 more,109 years old,10000+ employees
+336,BT Group,4.0,636 Reviews,Private,London + 7 more,174 years old,10000+ employees
+337,Cadila Pharmaceuticals,3.8,635 Reviews,Public,Ahmedabad + 48 more,69 years old,10000+ employees
+338,Gannon Dunkerley,3.9,635 Reviews,Private,Mumbai + 41 more,96 years old,10000+ employees
+339,Dharampal Satyapal Group,4.1,633 Reviews,Private,Noida + 47 more,91 years old,10000+ employees
+340,Intex Technologies,3.8,630 Reviews,Public,New Delhi + 48 more,24 years old,10000+ employees
+341,Shree Cement,4.3,629 Reviews,Public,Kolkata + 48 more,41 years old,5001-10000 employees
+342,SRF,4.2,628 Reviews,Public,Gurugram + 26 more,50 years old,10000+ employees
+343,Toyota Kirloskar Motor,4.3,626 Reviews,Private,Bangalore + 47 more,23 years old,5001-10000 employees
+344,Sony,4.4,625 Reviews,Public,Tokyo + 47 more,74 years old,10000+ employees
+345,Endurance Technologies,3.9,622 Reviews,Public,Aurangabad + 22 more,35 years old,1001-5000 employees
+346,Taj Hotels Resorts and P...,4.4,620 Reviews,Mumbai + 44 more,117 years old,10000+ employees,
+347,Narayana Health,4.2,618 Reviews,Bengaluru + 35 more,20 years old,10000+ employees,
+348,Uflex,4.0,618 Reviews,Public,Noida + 24 more,35 years old,10000+ employees
+349,Coromandel International,4.1,617 Reviews,Public,Secunderabad + 47 more,59 years old,10000+ employees
+350,Kalpataru Power Transmis...,4.1,616 Reviews,Public,Mumbai + 46 more,51 years old,10000+ employees
+351,Metro,4.0,616 Reviews,Private,Bangalore + 38 more,56 years old,10000+ employees
+352,Barclays Shared Services,4.2,615 Reviews,Private,Noida + 10 more,13 years old,10000+ employees
+353,TVS Logistics Services,4.1,614 Reviews,Private,Chennai + 46 more,16 years old,10000+ employees
+354,Access Healthcare,3.9,614 Reviews,Private,Chennai + 8 more,9 years old,10000+ employees
+355,Hinduja Group,4.0,613 Reviews,Public,Mumbai + 47 more,106 years old,10000+ employees
+356,GeBBS Healthcare Solutio...,3.9,613 Reviews,Private,California + 5 more,15 years old,10000+ employees
+357,Fiserv,4.0,611 Reviews,Private,Brookfield + 16 more,36 years old,10000+ employees
+358,Adecco Group,3.9,609 Reviews,Private,Zurich + 44 more,24 years old,10000+ employees
+359,Parle Agro,4.2,608 Reviews,Private,Mumbai + 48 more,35 years old,10000+ employees
+360,Yazaki,4.0,608 Reviews,Private,Tokyo + 26 more,79 years old,10000+ employees
+361,WABCO,4.1,607 Reviews,Public,Berne + 26 more,151 years old,10000+ employees
+362,Consolidated Contractors...,4.5,607 Reviews,Public,Marousi + 29 more,68 years old,10000+ employees
+363,Aforeserve.com,3.5,606 Reviews,Private,Noida + 47 more,20 years old,1001-5000 employees
+364,HDFC Sales,4.1,603 Reviews,Private,Mumbai + 43 more,16 years old,5001-10000 employees
+365,Robert Bosch Engineering...,3.9,602 Reviews,Private,Bangalore + 9 more,30 years old,10000+ employees
+366,Cogent E Services,3.4,602 Reviews,Private,Noida + 14 more,16 years old,5001-10000 employees
+367,AXA Business Services,3.8,599 Reviews,Private,Bangalore + 4 more,20 years old,10000+ employees
+368,Volkswagen,4.2,596 Reviews,Private,Berlin + 47 more,83 years old,10000+ employees
+369,International Tractors,4.1,595 Reviews,Private,Hoshiarpur + 47 more,51 years old,10000+ employees
+370,Angel Broking,3.8,591 Reviews,Private,Mumbai + 44 more,33 years old,5001-10000 employees
+371,Samsung Mobile,4.4,590 Reviews,Private,Suwon-si + 47 more,51 years old,10000+ employees
+372,Sify Technologies,3.8,589 Reviews,Private,Chennai + 45 more,25 years old,1001-5000 employees
+373,Info Edge,3.9,588 Reviews,Public,Noida + 40 more,25 years old,1001-5000 employees
+374,TVS Credit Services,4.2,588 Reviews,Public,Chennai + 47 more,11 years old,10000+ employees
+375,Future Generali India In...,3.8,586 Reviews,Private,Mumbai + 46 more,13 years old,1001-5000 employees
+376,Johnson Controls,4.0,584 Reviews,Public,Cork + 41 more,135 years old,10000+ employees
+377,Varroc Group,3.9,584 Reviews,Public,Aurangabad + 22 more,32 years old,10000+ employees
+378,Reckitt Benckiser,4.1,584 Reviews,Private,Slough + 49 more,197 years old,10000+ employees
+379,iQor Global Services,4.0,584 Reviews,Private,Saint Petersburg + 46 more,63 years old,10000+ employees
+380,Ocwen Financial Solution...,3.8,582 Reviews,Private,Florida + 3 more,32 years old,10000+ employees
+381,Bharat Petroleum,4.3,582 Reviews,Private,Mumbai + 48 more,68 years old,10000+ employees
+382,Sopra Steria,3.8,579 Reviews,Private,Paris + 8 more,52 years old,10000+ employees
+383,Swiggy,4.0,578 Reviews,Private,Bangalore + 47 more,6 years old,10000+ employees
+384,United Phosphorus,4.3,576 Reviews,Public,Mumbai + 50 more,51 years old,10000+ employees
+385,Exl India,3.6,573 Reviews,New Delhi + 16 more,63 years old,10000+ employees,
+386,Telenor,4.4,573 Reviews,Private,Fornebu + 45 more,165 years old,10000+ employees
+387,Datamatics Global Servic...,3.5,569 Reviews,Public,Mumbai + 14 more,45 years old,10000+ employees
+388,V-mart,4.2,569 Reviews,Public,Gurgaon + 42 more,18 years old,1001-5000 employees
+389,jCB,4.1,568 Reviews,Private,Rocester + 47 more,41 years old,10000+ employees
+390,Kansai Nerolac Paints,3.8,566 Reviews,Public,Mumbai + 49 more,100 years old,10000+ employees
+391,ValueLabs,3.2,565 Reviews,Private,Hyderabad + 9 more,23 years old,5001-10000 employees
+392,Mahindra Rural Housing F...,4.1,565 Reviews,Public,Mumbai + 44 more,13 years old,10000+ employees
+393,Badve Engineering,4.0,564 Reviews,Private,Pune + 24 more,24 years old,1001-5000 employees
+394,JK Cement,4.2,564 Reviews,Public,Kanpur + 48 more,46 years old,10000+ employees
+395,Trident Group,3.7,562 Reviews,Public,Ludhiana + 26 more,30 years old,10000+ employees
+396,InterGlobe Technologies,3.8,561 Reviews,Public,Gurugram + 21 more,22 years old,10000+ employees
+397,Saint-Gobain,4.1,561 Reviews,Private,Paris + 44 more,355 years old,10000+ employees
+398,Sterlite Technologies,4.2,561 Reviews,Public,Pune + 38 more,32 years old,1001-5000 employees
+399,Tata Technologies,3.7,560 Reviews,Private,Singapore + 21 more,31 years old,10000+ employees
+400,SGS,4.0,560 Reviews,Private,Geneva + 49 more,142 years old,10000+ employees
+401,Utkarsh Small Finance Ba...,3.9,560 Reviews,Public,Varanasi + 47 more,11 years old,5001-10000 employees
+402,Kent RO Systems,3.5,559 Reviews,Private,Noida + 48 more,21 years old,1001-5000 employees
+403,Lodha group,4.0,554 Reviews,Private,Mumbai + 16 more,40 years old,5001-10000 employees
+404,SRL Diagnostics,4.0,553 Reviews,Private,Gurugram + 48 more,25 years old,5001-10000 employees
+405,Tikona Infinet,3.8,551 Reviews,Private,Mumbai + 36 more,12 years old,1001-5000 employees
+406,GMR Group,4.2,551 Reviews,Public,New Delhi + 33 more,42 years old,10000+ employees
+407,Tata Sky,4.3,549 Reviews,Public,Mumbai + 45 more,14 years old,1001-5000 employees
+408,Mother Dairy Fruit & Veg...,4.2,546 Reviews,Private,Noida + 46 more,46 years old,5001-10000 employees
+409,Johnson & Johnson,4.3,544 Reviews,Private,New Brunswick + 47 more,133 years old,10000+ employees
+410,Microland,3.5,542 Reviews,Public,Bengaluru + 24 more,31 years old,1001-5000 employees
+411,Myntra,4.1,541 Reviews,Private,Bangalore + 45 more,13 years old,10000+ employees
+412,Akums Drugs & Pharmaceut...,4.2,541 Reviews,Private,New Delhi + 14 more,16 years old,5001-10000 employees
+413,Inox Leisure,4.2,540 Reviews,Public,Mumbai + 47 more,21 years old,10000+ employees
+414,Kotak Securities,3.9,538 Reviews,Private,Mumbai + 47 more,26 years old,5001-10000 employees
+415,DHL Express,4.2,536 Reviews,Private,Bonn + 45 more,51 years old,10000+ employees
+416,BYJU'S,3.0,536 Reviews,Private,Bangalore + 46 more,9 years old,10000+ employees
+417,Procter & Gamble,4.3,534 Reviews,Private,Cincinnati + 50 more,183 years old,10000+ employees
+418,Akzo Nobel India,4.2,534 Reviews,Public,Gurugram + 46 more,66 years old,10000+ employees
+419,Bharat Forge,4.0,532 Reviews,Public,Pune + 9 more,54 years old,10000+ employees
+420,GAMMON INDIA,4.1,530 Reviews,Public,Mumbai + 44 more,101 years old,10000+ employees
+421,Adani Wilmar,4.2,530 Reviews,Public,Ahmedabad + 49 more,21 years old,10000+ employees
+422,Walmart,4.2,530 Reviews,Private,Bentonville + 42 more,58 years old,10000+ employees
+423,Relaxo Footwear,4.0,530 Reviews,Public,New Delhi + 49 more,44 years old,10000+ employees
+424,Pantaloons,4.2,528 Reviews,Public,Mumbai + 48 more,23 years old,10000+ employees
+425,Bharat Financial Inclusi...,4.4,527 Reviews,Public,Hyderabad + 49 more,22 years old,10000+ employees
+426,General Electric Interna...,4.2,526 Reviews,Private,Boston + 37 more,128 years old,10000+ employees
+427,Max Fashion,4.4,526 Reviews,Private,Abu Dhabi + 48 more,16 years old,5001-10000 employees
+428,Marriott International,4.4,525 Reviews,Private,Bethesda + 44 more,93 years old,10000+ employees
+429,Verizon,3.6,523 Reviews,Private,New York + 6 more,20 years old,10000+ employees
+430,Dr Lal PathLabs,4.3,521 Reviews,Public,Gurugram + 48 more,71 years old,1001-5000 employees
+431,USHA International,4.1,520 Reviews,Public,Gurgaon + 48 more,85 years old,5001-10000 employees
+432,Novartis Healthcare,4.1,518 Reviews,Public,Basel + 39 more,24 years old,10000+ employees
+433,NTPC,4.4,513 Reviews,Private,New Delhi + 46 more,45 years old,10000+ employees
+434,Motherson Automotive Tec...,4.1,513 Reviews,Private,Noida + 26 more,23 years old,10000+ employees
+435,Apotex Research,4.5,513 Reviews,Private,Toronto + 3 more,46 years old,10000+ employees
+436,Sapient Corporation,3.6,512 Reviews,Private,Boston + 8 more,30 years old,10000+ employees
+437,ITC Hotels,4.4,511 Reviews,Public,Kolkata + 45 more,45 years old,10000+ employees
+438,AECOM,4.2,511 Reviews,Private,Los Angeles + 45 more,30 years old,10000+ employees
+439,Reliance Trends,4.2,511 Reviews,Private,Mumbai + 46 more,14 years old,5001-10000 employees
+440,Cromā,4.4,510 Reviews,Private,Mumbai + 33 more,14 years old,1001-5000 employees
+441,Petrofac,4.2,510 Reviews,Private,London + 22 more,39 years old,10000+ employees
+442,JW Marriott,4.5,510 Reviews,Private,"Washington,D.C. + 23 more",93 years old,10000+ employees
+443,Reliance General Insuran...,3.9,507 Reviews,Private,Mumbai + 48 more,20 years old,5001-10000 employees
+444,AIS Distribution Service...,3.9,506 Reviews,Public,Gurgaon + 34 more,22 years old,10000+ employees
+445,Bayer,4.4,506 Reviews,Public,Leverkusen + 47 more,157 years old,10000+ employees
+446,HCL Technologies BPO Ser...,3.6,505 Reviews,Private,Noida + 15 more,20 years old,10000+ employees
+447,Fujitsu,3.8,504 Reviews,Private,Tokyo + 11 more,85 years old,10000+ employees
+448,Narayana Educational Soc...,3.8,504 Reviews,Private,Hyderabad + 45 more,41 years old,10000+ employees
+449,Persistent Systems,4.0,503 Reviews,Public,Pune + 5 more,30 years old,10000+ employees
+450,ISS Facility Services,4.1,503 Reviews,Private,"Copenhagen,Denmark + 33 more",119 years old,10000+ employees
+451,Steel Strips Wheels,3.5,503 Reviews,Public,Chandigarh + 19 more,29 years old,10000+ employees
+452,Columbia Asia,4.2,503 Reviews,Private,Selangor + 16 more,24 years old,10000+ employees
+453,Magna Infotech,3.5,501 Reviews,Private,Bangalore + 39 more,23 years old,10000+ employees
+454,Synechron,3.3,499 Reviews,Private,New York + 5 more,19 years old,5001-10000 employees
+455,Aarti Industries,4.1,498 Reviews,Public,Mumbai + 22 more,36 years old,1001-5000 employees
+456,Cybage,3.8,497 Reviews,Private,Pune + 3 more,25 years old,10000+ employees
+457,Ivrcl Infrastructures & ...,4.3,497 Reviews,Public,Hyderabad + 46 more,33 years old,5001-10000 employees
+458,Tata Chemicals,4.3,497 Reviews,Public,Mumbai + 49 more,81 years old,10000+ employees
+459,DISH TV,3.8,495 Reviews,Public,Noida + 49 more,17 years old,1001-5000 employees
+460,Karvy Stock Broking,3.4,494 Reviews,Private,Hyderabad Telangana + 48 more,37 years old,10000+ employees
+461,Barclays,3.9,493 Reviews,Private,London + 17 more,330 years old,10000+ employees
+462,Apollo Munich Health Ins...,3.9,491 Reviews,Public,Gurgaon + 49 more,13 years old,5001-10000 employees
+463,CSS Corp,3.7,490 Reviews,Private,California + 16 more,24 years old,10000+ employees
+464,Societe Generale,3.8,490 Reviews,Private,Paris + 8 more,156 years old,10000+ employees
+465,Cavinkare,4.1,490 Reviews,Private,Chennai + 48 more,37 years old,10000+ employees
+466,Medanta the Medicity,4.2,490 Reviews,Private,Gurgaon + 18 more,11 years old,1001-5000 employees
+467,Quest Global,3.2,489 Reviews,Private,Singapore + 21 more,23 years old,10000+ employees
+468,Unisys,3.4,486 Reviews,Private,Blue Bell + 6 more,34 years old,10000+ employees
+469,Jindal Stainless,4.2,486 Reviews,Public,New Delhi + 25 more,50 years old,10000+ employees
+470,Vfs Global Services,3.8,484 Reviews,Private,Mumbai + 19 more,19 years old,5001-10000 employees
+471,Lenskart,3.5,484 Reviews,Private,Delhi + 47 more,12 years old,1001-5000 employees
+472,Altisource,3.4,483 Reviews,Private,Bengaluru + 7 more,11 years old,5001-10000 employees
+473,Bajaj Motor,3.8,483 Reviews,Private,Gurugram + 36 more,34 years old,10000+ employees
+474,Fluor Daniel India,4.1,483 Reviews,Private,Gurgaon + 17 more,25 years old,10000+ employees
+475,Satin Creditcare Network,4.1,482 Reviews,Public,Gurugram + 48 more,30 years old,10000+ employees
+476,Innovsource Services,4.1,481 Reviews,Private,Mumbai + 46 more,16 years old,1001-5000 employees
+477,Shriram City Union Finan...,3.9,477 Reviews,Public,Chennai + 46 more,34 years old,10000+ employees
+478,AGS Health,4.0,475 Reviews,Private,New Jersey + 3 more,9 years old,10000+ employees
+479,Sitel,3.9,474 Reviews,Private,Miami + 11 more,35 years old,10000+ employees
+480,Vardhman Textiles,4.2,473 Reviews,Public,Ludhiana + 34 more,58 years old,10000+ employees
+481,Aptara,3.5,471 Reviews,Private,Falls Church + 10 more,32 years old,5001-10000 employees
+482,Sharekhan,4.1,470 Reviews,Public,Mumbai + 48 more,20 years old,1001-5000 employees
+483,HDFC Securities,3.5,470 Reviews,Public,Mumbai + 46 more,20 years old,10000+ employees
+484,Optum,3.9,470 Reviews,Private,Minnesota + 7 more,14 years old,10000+ employees
+485,Factset Research Systems,3.9,469 Reviews,Private,"Norwalk,Connecticut",42 years old,10000+ employees
+486,ISGEC,4.0,469 Reviews,Public,Noida + 32 more,87 years old,10000+ employees
+487,Fabindia,4.1,469 Reviews,Private,New Delhi + 46 more,60 years old,10000+ employees
+488,Honeywell Automation,4.1,468 Reviews,Public,North Coralina + 35 more,36 years old,10000+ employees
+489,Syngene International,4.0,468 Reviews,Public,Bangalore + 9 more,27 years old,1001-5000 employees
+490,FedEx Express,4.2,468 Reviews,Private,Memphis + 48 more,47 years old,10000+ employees
+491,Sysnet Global Technologi...,3.7,467 Reviews,Private,New Delhi + 45 more,21 years old,1001-5000 employees
+492,Tesco,4.0,464 Reviews,Private,Hertfordshire + 3 more,101 years old,10000+ employees
+493,Piramal Enterprises,4.2,464 Reviews,Public,Mumbai + 46 more,36 years old,10000+ employees
+494,Kendriya Vidyalaya Sanga...,4.4,464 Reviews,Public,New Delhi + 45 more,57 years old,10000+ employees
+495,Grofers,4.0,463 Reviews,Private,Gurgaon + 28 more,7 years old,10000+ employees
+496,HCL ISD,3.9,462 Reviews,Private,New Delhi + 36 more,19 years old,10000+ employees
+497,Metlife Global Operation...,4.2,461 Reviews,Private,Noida + 4 more,13 years old,1001-5000 employees
+498,Lumax Industries,4.0,461 Reviews,Public,Gurgaon + 25 more,75 years old,10000+ employees
+499,RMSI,3.9,461 Reviews,Private,Noida + 7 more,28 years old,1001-5000 employees
+500,Oil And Natural Gas Corp...,4.4,459 Reviews,Private,New Delhi + 43 more,65 years old,10000+ employees
+501,Torrent Power,4.1,457 Reviews,Public,Ahmedabad + 18 more,24 years old,10000+ employees
+502,Acme Cleantech Solutions,3.8,457 Reviews,Private,Gurgaon + 44 more,17 years old,1001-5000 employees
+503,Cinépolis,4.0,457 Reviews,Morelia + 39 more,49 years old,10000+ employees,
+504,Micromax Informatics,3.9,456 Reviews,Private,Gurgaon + 46 more,20 years old,10000+ employees
+505,Grasim Industries,4.2,456 Reviews,Public,Mumbai + 32 more,73 years old,10000+ employees
+506,Safexpress,3.9,456 Reviews,Private,New Delhi + 48 more,23 years old,10000+ employees
+507,KONE,4.2,456 Reviews,Private,Espoo + 43 more,110 years old,10000+ employees
+508,Foxconn,4.0,456 Reviews,Private,Taipei + 20 more,46 years old,10000+ employees
+509,Hyatt Regency,4.6,455 Reviews,Private,Los Angeles + 18 more,53 years old,10000+ employees
+510,Heritage Foods India,4.0,455 Reviews,Public,Hyderabad + 40 more,28 years old,1001-5000 employees
+511,Escorts Agri Machinery,4.2,454 Reviews,Private,Faridabad + 44 more,60 years old,10000+ employees
+512,Shell,4.2,453 Reviews,Private,The Hague + 42 more,113 years old,10000+ employees
+513,Orion Edutech,3.5,452 Reviews,Private,Kolkata + 48 more,14 years old,1001-5000 employees
+514,Cushman & Wakefield,4.3,451 Reviews,Private,Chicago + 18 more,103 years old,10000+ employees
+515,Security and Intelligenc...,4.2,451 Reviews,Private,New Delhi + 47 more,35 years old,10000+ employees
+516,Star Health & Allied Ins...,4.0,450 Reviews,Private,Chennai + 48 more,14 years old,5001-10000 employees
+517,NCR Corporation,4.0,449 Reviews,Private,Atlanta + 40 more,136 years old,10000+ employees
+518,First American Corporati...,3.9,447 Reviews,Private,Santa Ana + 5 more,131 years old,10000+ employees
+519,DENSO,4.2,447 Reviews,Private,Kariya + 19 more,71 years old,10000+ employees
+520,Cisco Systems,4.2,446 Reviews,Private,San Jose + 21 more,36 years old,10000+ employees
+521,Northern Trust Operating...,4.2,446 Reviews,Private,Chicago + 2 more,131 years old,10000+ employees
+522,Moser Baer,4.3,445 Reviews,Public,New Delhi + 12 more,37 years old,5001-10000 employees
+523,QConneqt,3.7,443 Reviews,Hyderabad + 29 more,16 years old,10000+ employees,
+524,Computer Age Management ...,3.7,442 Reviews,Private,Chennai + 43 more,32 years old,5001-10000 employees
+525,Harman Connected Service...,3.6,441 Reviews,Private,California + 6 more,8 years old,10000+ employees
+526,Jubilant Life Sciences,4.1,440 Reviews,Public,Noida + 27 more,42 years old,5001-10000 employees
+527,Bank of Baroda,4.0,439 Reviews,Private,Vadodara + 47 more,112 years old,10000+ employees
+528,Bharti Infratel,4.3,439 Reviews,Public,Gurugram + 48 more,13 years old,1001-5000 employees
+529,Wind World,3.7,439 Reviews,Private,Mumbai + 33 more,26 years old,5001-10000 employees
+530,G R Infraprojects,4.0,439 Reviews,Public,Udaipur + 48 more,25 years old,10000+ employees
+531,ECIL,4.1,438 Reviews,Private,Hyderabad + 29 more,53 years old,5001-10000 employees
+532,Lemon Tree Hotels,4.3,438 Reviews,Public,New Delhi + 35 more,16 years old,5001-10000 employees
+533,Birlasoft,3.5,435 Reviews,Public,Pune + 11 more,25 years old,10000+ employees
+534,Yash Technologies,3.6,435 Reviews,Private,East Moline + 8 more,24 years old,5001-10000 employees
+535,FDC,3.9,433 Reviews,Public,Mumbai + 50 more,84 years old,5001-10000 employees
+536,Amity University,3.8,433 Reviews,Private,"Noida,UP + 47 more",15 years old,501-1000 employees
+537,R1 RCM,3.5,432 Reviews,Private,"Chicago,IL + 6 more",17 years old,10000+ employees
+538,Philips,4.0,431 Reviews,Private,Amsterdam + 47 more,129 years old,10000+ employees
+539,Crisil,3.7,430 Reviews,Public,Mumbai + 36 more,33 years old,10000+ employees
+540,Nirma,4.2,429 Reviews,Private,Ahmedabad + 39 more,51 years old,10000+ employees
+541,Spencer's Retail,4.2,428 Reviews,Public,Kolkata + 42 more,157 years old,10000+ employees
+542,Shriram Pistons & Rings,4.3,428 Reviews,Public,New Delhi + 30 more,57 years old,5001-10000 employees
+543,BGR Energy Systems,4.2,427 Reviews,Public,Chennai + 21 more,35 years old,1001-5000 employees
+544,IndiGo,3.9,427 Reviews,Private,"Gurgaon,Haryana + 35 more",14 years old,10000+ employees
+545,Accel Frontline,3.5,425 Reviews,Private,Chennai + 46 more,29 years old,10000+ employees
+546,Minda Industries,4.1,424 Reviews,Public,Manesar + 25 more,62 years old,10000+ employees
+547,Schindler Group,4.2,424 Reviews,Private,Indore + 38 more,146 years old,10000+ employees
+548,CADD Centre Training Ser...,4.0,423 Reviews,Private,Chennai + 44 more,32 years old,1001-5000 employees
+549,ITD Cementation India,4.3,422 Reviews,Public,"Mumbai,India + 27 more",89 years old,1001-5000 employees
+550,IDC Technologies,4.0,422 Reviews,Private,"Milpitas,CA + 34 more",17 years old,1001-5000 employees
+551,CMA CGM,3.9,421 Reviews,Private,Marseille + 15 more,42 years old,10000+ employees
+552,SKF,4.4,420 Reviews,Public,Gothenburg + 29 more,113 years old,10000+ employees
+553,Bharat Sanchar Nigam,4.2,420 Reviews,Private,New Delhi + 48 more,20 years old,10000+ employees
+554,J. Kumar Infraprojects,4.2,420 Reviews,Public,Mumbai + 16 more,40 years old,10000+ employees
+555,Mercer,3.9,419 Reviews,Private,New York + 7 more,83 years old,10000+ employees
+556,Bajaj Auto Finance,4.1,419 Reviews,Private,Pune + 50 more,33 years old,1001-5000 employees
+557,Citibank,4.1,418 Reviews,Private,New York + 29 more,10000+ employees,
+558,TATA Power,4.1,418 Reviews,Public,Mumbai + 48 more,109 years old,10000+ employees
+559,Next Education India,3.6,418 Reviews,Private,Hyderabad + 46 more,13 years old,1001-5000 employees
+560,Bechtel,4.4,417 Reviews,Private,Reston + 24 more,122 years old,10000+ employees
+561,Trent,4.3,416 Reviews,Public,Mumbai + 49 more,22 years old,1001-5000 employees
+562,Indian Railways,4.1,414 Reviews,Govt Organisation,New Delhi + 47 more,167 years old,10000+ employees
+563,Medi Assist India,3.8,413 Reviews,Private,Bangalore + 33 more,21 years old,1001-5000 employees
+564,Tech Mahindra Business S...,3.5,412 Reviews,Mumbai + 13 more,18 years old,5001-10000 employees,
+565,Devyani International,4.0,412 Reviews,Public,Gurugram + 44 more,29 years old,10000+ employees
+566,Educomp Solutions,3.3,411 Reviews,Public,Gurgaon + 46 more,26 years old,5001-10000 employees
+567,Indoco Remedies,4.0,411 Reviews,Public,"Mumbai,Maharashtra + 37 more",73 years old,5001-10000 employees
+568,Ceasefire Industries,3.3,411 Reviews,Private,Noida + 47 more,18 years old,1001-5000 employees
+569,Bata,4.1,411 Reviews,Public,Lausanne + 46 more,89 years old,10000+ employees
+570,Jindal Saw,4.2,410 Reviews,Public,New Delhi + 23 more,36 years old,1001-5000 employees
+571,Luminous Power Technolog...,4.1,410 Reviews,Private,Gurgaon + 49 more,32 years old,5001-10000 employees
+572,USV,4.3,409 Reviews,Private,Mumbai + 48 more,58 years old,1001-5000 employees
+573,Piaggio Vehicles,3.9,409 Reviews,Private,Pontedera + 43 more,136 years old,5001-10000 employees
+574,Strides Pharma,4.0,408 Reviews,Public,Bengaluru + 22 more,30 years old,
+575,Mercedes-Benz,4.0,407 Reviews,Private,Stuttgart + 40 more,137 years old,10000+ employees
+576,DIVI'S Laboratories,3.8,406 Reviews,Public,Hyderabad + 9 more,30 years old,10000+ employees
+577,Haldiram Foods,4.2,406 Reviews,Private,Nagpur + 42 more,50 years old,10000+ employees
+578,Allsec Technologies,3.7,405 Reviews,Public,Chennai + 10 more,22 years old,1001-5000 employees
+579,GlaxoSmithKline Consumer...,4.4,404 Reviews,Public,Brentford + 47 more,20 years old,10000+ employees
+580,Daimler India Commercial...,4.1,404 Reviews,Private,Chennai + 20 more,13 years old,1001-5000 employees
+581,V-Guard Industries,4.4,403 Reviews,Public,Kochi + 46 more,43 years old,10000+ employees
+582,Collabera Technologies,3.6,402 Reviews,Private,New Jersey + 27 more,29 years old,10000+ employees
+583,Sahara India Pariwar,3.8,402 Reviews,Private,Lucknow + 46 more,42 years old,10000+ employees
+584,Marico,4.2,402 Reviews,Public,Mumbai + 45 more,30 years old,10000+ employees
+585,Bosch Chassis Systems,4.3,400 Reviews,Private,Gerlingen + 13 more,134 years old,10000+ employees
+586,Trimax IT Infrastructure...,2.8,399 Reviews,Private,Mumbai + 49 more,25 years old,5001-10000 employees
+587,Army (Corps of Signals),4.6,398 Reviews,Other,New Delhi + 45 more,109 years old,10000+ employees
+588,Indian Air Force,4.6,397 Reviews,Private,New Delhi + 45 more,88 years old,10000+ employees
+589,BNP Paribas,4.0,397 Reviews,Private,Paris + 19 more,172 years old,10000+ employees
+590,Daikin,4.1,397 Reviews,Private,Osaka + 38 more,96 years old,10000+ employees
+591,SoftAge Information Tech...,4.3,396 Reviews,Private,Gurugram + 47 more,26 years old,10000+ employees
+592,Laurus Labs,4.3,396 Reviews,Public,Hyderabad + 2 more,15 years old,1001-5000 employees
+593,Snapdeal,4.2,395 Reviews,Private,Gurugram + 21 more,10 years old,10000+ employees
+594,BVG India,3.8,395 Reviews,Private,Pune + 45 more,23 years old,10000+ employees
+595,Cargill,4.3,393 Reviews,Private,Minnesota + 46 more,155 years old,1001-5000 employees
+596,Manipal Hospital,4.2,393 Reviews,Private,Banglore + 13 more,29 years old,10000+ employees
+597,Sandvik Asia,4.3,393 Reviews,Private,Stockholm + 16 more,158 years old,10000+ employees
+598,Capacit'e Infraprojects,4.0,393 Reviews,Public,Mumbai + 16 more,8 years old,1001-5000 employees
+599,Oracle Financial Service...,3.8,392 Reviews,Public,Mumbai + 7 more,30 years old,5001-10000 employees
+600,Dimension Data,4.1,392 Reviews,Private,Johannesburg + 42 more,37 years old,10000+ employees
+601,Nexa,3.9,392 Reviews,Private,New Delhi + 44 more,37 years old,10000+ employees
+602,Galfar Engineering & Con...,4.1,391 Reviews,Private,Muscat + 20 more,48 years old,10000+ employees
+603,R.R. Donnelley,4.1,390 Reviews,Private,Chicago + 6 more,156 years old,10000+ employees
+604,Honeywell Technology Sol...,3.8,389 Reviews,Private,Columbia + 9 more,70 years old,10000+ employees
+605,Pizza Hut,4.3,389 Reviews,Private,"Plano,Texas + 45 more",62 years old,10000+ employees
+606,Vistaar Finance,4.1,389 Reviews,Private,Bangalore + 47 more,29 years old,1001-5000 employees
+607,Orange Business Services,4.1,388 Reviews,Private,Paris + 24 more,14 years old,10000+ employees
+608,Bajaj Capital,3.7,388 Reviews,Public,New Delhi + 48 more,56 years old,1001-5000 employees
+609,Finolex Cables,4.0,388 Reviews,Public,Pune + 45 more,64 years old,5001-10000 employees
+610,Motilal Oswal Financial ...,3.6,388 Reviews,Public,Mumbai + 40 more,33 years old,5001-10000 employees
+611,SAP,4.4,385 Reviews,Private,Walldorf + 15 more,48 years old,10000+ employees
+612,Hindustan Petroleum,4.3,385 Reviews,Public,Mumbai + 45 more,46 years old,10000+ employees
+613,Suguna Foods,4.2,385 Reviews,Private,Coimbatore + 46 more,36 years old,1001-5000 employees
+614,Krishna Maruti,4.2,384 Reviews,Private,Gurgaon + 17 more,26 years old,1001-5000 employees
+615,ThyssenKrupp Elevator,3.9,383 Reviews,Private,Essen + 44 more,25 years old,10000+ employees
+616,Aviva Life Insurance Ind...,3.9,382 Reviews,Joint Venture,Gurugram + 46 more,18 years old,10000+ employees
+617,Tata Communications Tran...,4.0,382 Reviews,Private,Mumbai + 39 more,14 years old,1001-5000 employees
+618,MSN Laboratories,3.6,382 Reviews,Private,Hyderabad + 20 more,17 years old,5001-10000 employees
+619,DHL Supply Chain,4.3,382 Reviews,Private,Bonn + 45 more,51 years old,10000+ employees
+620,Unichem Laboratories,4.0,381 Reviews,Public,Mumbai + 45 more,76 years old,1001-5000 employees
+621,Sanofi-Aventis,4.4,381 Reviews,Public,Paris + 41 more,47 years old,10000+ employees
+622,Canara HSBC OBC Life Ins...,3.9,381 Reviews,Private,Gurugram + 46 more,12 years old,10000+ employees
+623,Saipem,4.5,381 Reviews,Private,San Donato Milanese + 22 more,63 years old,10000+ employees
+624,Automotive Manufacturers,4.1,380 Reviews,Secunderabad + 45 more,72 years old,1001-5000 employees,
+625,Indiabulls Home Loans,4.3,380 Reviews,Mumbai + 48 more,20 years old,,
+626,GAIL,4.4,379 Reviews,Private,New Delhi + 46 more,36 years old,1001-5000 employees
+627,Statestreet HCL Services,3.2,378 Reviews,Private,New Delhi + 6 more,8 years old,5001-10000 employees
+628,Toyota,4.2,378 Reviews,Private,"Toyota City,Aichi Prefecture + 44 more",83 years old,10000+ employees
+629,Iffco Tokio General Insu...,4.1,377 Reviews,Private,Gurgaon + 47 more,20 years old,1001-5000 employees
+630,Adani Ports and Special ...,4.4,377 Reviews,Public,Gujarat + 24 more,22 years old,1001-5000 employees
+631,Quatrro,3.2,375 Reviews,Private,Gurgaon + 5 more,14 years old,5001-10000 employees
+632,Religare Health Insuranc...,4.0,375 Reviews,Private,Gurgaon + 45 more,8 years old,1001-5000 employees
+633,Extramarks Education,3.5,375 Reviews,Private,Noida + 45 more,13 years old,1001-5000 employees
+634,SLK Global BPO Services,3.7,375 Reviews,Private,Dallas + 4 more,20 years old,5001-10000 employees
+635,Serco BPO,3.9,372 Reviews,Private,"Hook,Hampshire + 26 more",91 years old,10000+ employees
+636,Dodsal Engineering & Con...,4.1,372 Reviews,Conglomerate,Dubai + 20 more,72 years old,10000+ employees
+637,C.R.I. Pumps,4.0,372 Reviews,Private,Coimbatore + 41 more,59 years old,1001-5000 employees
+638,Johnson Lifts,4.0,372 Reviews,Private,Chennai + 40 more,52 years old,5001-10000 employees
+639,Viraj Profiles,3.9,372 Reviews,Private,Mumbai + 10 more,28 years old,5001-10000 employees
+640,Tata Elxsi,3.8,371 Reviews,Public,Banglore + 10 more,31 years old,5001-10000 employees
+641,Amtek Auto,3.8,371 Reviews,Public,New Delhi + 31 more,32 years old,5001-10000 employees
+642,Nilkamal,3.9,370 Reviews,Public,Mumbai + 46 more,35 years old,1001-5000 employees
+643,Pricol,3.8,369 Reviews,Public,"Coimbatore,Tamilnadu + 13 more",45 years old,5001-10000 employees
+644,Inventurus Knowledge Sol...,3.2,369 Reviews,Private,Navi Mumbai + 2 more,13 years old,5001-10000 employees
+645,Gland Pharma,4.0,369 Reviews,Private,Hyderabad + 5 more,42 years old,1001-5000 employees
+646,Hero Motors,4.1,368 Reviews,Private,New Delhi + 47 more,22 years old,10000+ employees
+647,OM Logistics,4.2,368 Reviews,Private,New Delhi + 46 more,21 years old,5001-10000 employees
+648,Hero FinCorp,4.3,368 Reviews,Private,New Delhi + 45 more,29 years old,1001-5000 employees
+649,HERE Technologies,4.1,367 Reviews,Private,Chicago + 7 more,35 years old,5001-10000 employees
+650,Crowne Plaza,4.4,366 Reviews,Private,Atlanta + 25 more,37 years old,10000+ employees
+651,Bureau Veritas,4.2,365 Reviews,Private,La Défense + 44 more,192 years old,10000+ employees
+652,BA Continuum India,4.3,364 Reviews,Private,Hyderabad + 5 more,17 years old,5001-10000 employees
+653,AGS Transact Technologie...,3.8,364 Reviews,Private,Mumbai + 46 more,18 years old,5001-10000 employees
+654,Nasser S Al Hajri Corpor...,3.5,364 Reviews,Private,Al – Khobar + 23 more,42 years old,10000+ employees
+655,Ruchi Soya Industries,4.2,363 Reviews,Public,Indore + 47 more,34 years old,5001-10000 employees
+656,V2 Retail,3.6,363 Reviews,Public,New Delhi + 46 more,19 years old,1001-5000 employees
+657,ANZ Banking Group,4.0,362 Reviews,Melbourne + 10 more,185 years old,10000+ employees,
+658,Aarvee Associates,4.1,362 Reviews,Private,Hyderabad + 48 more,31 years old,1001-5000 employees
+659,SYSKA LED Lights,3.6,361 Reviews,Private,Pune + 49 more,8 years old,1001-5000 employees
+660,Barbeque Nation,4.4,360 Reviews,Private,Bangalore + 40 more,14 years old,1001-5000 employees
+661,BT Global Services,4.0,359 Reviews,Private,London + 8 more,20 years old,10000+ employees
+662,Spicer India,4.3,359 Reviews,Private,Pune + 24 more,27 years old,10000+ employees
+663,Eli Research,3.3,358 Reviews,Private,Faridabad + 6 more,13 years old,5001-10000 employees
+664,Punjab National Bank,4.2,358 Reviews,Private,New Delhi + 47 more,125 years old,10000+ employees
+665,JK Lakshmi Cement,4.3,358 Reviews,Public,New Delhi + 50 more,38 years old,1001-5000 employees
+666,TCE,3.8,357 Reviews,Private,Mumbai + 40 more,58 years old,1001-5000 employees
+667,State Street Corporation,3.4,357 Reviews,Private,Massachusetts + 6 more,228 years old,10000+ employees
+668,United Spirits,3.8,357 Reviews,Public,Bangalore + 47 more,14 years old,5001-10000 employees
+669,Indiabulls Ventures,3.5,356 Reviews,Public,Mumbai + 47 more,25 years old,1001-5000 employees
+670,Nielsen,3.8,356 Reviews,Private,New York + 45 more,97 years old,10000+ employees
+671,Hathway,3.8,356 Reviews,Private,Mumbai + 32 more,25 years old,5001-10000 employees
+672,Coca-Cola Company,4.2,356 Reviews,Private,Atlanta + 49 more,134 years old,10000+ employees
+673,Jain Irrigation Systems,4.0,356 Reviews,Public,Jalgaon + 47 more,57 years old,10000+ employees
+674,TUV SUD,3.9,356 Reviews,Private,Munich + 40 more,154 years old,10000+ employees
+675,DHFL Pramerica Life Insu...,3.6,356 Reviews,Private,Gurgaon + 47 more,12 years old,1001-5000 employees
+676,Sadbhav Engineering,4.3,354 Reviews,Public,Gujarat + 48 more,32 years old,1001-5000 employees
+677,Alstom,4.3,353 Reviews,Private,Saint-Ouen + 35 more,92 years old,10000+ employees
+678,Adarsh Credit Co-Operati...,4.2,353 Reviews,Co-Operative Society,Ahmedabad + 49 more,21 years old,10000+ employees
+679,Panacea Biotec,3.7,352 Reviews,Public,New Delhi + 39 more,36 years old,1001-5000 employees
+680,Aadhar Housing Finance,4.1,352 Reviews,Private,Mumbai + 45 more,10 years old,1001-5000 employees
+681,Fino Payments Bank,4.0,352 Reviews,Navi Mumbai + 45 more,3 years old,10000+ employees,
+682,Vedanta Resources,3.9,350 Reviews,Public,London + 32 more,44 years old,10000+ employees
+683,Ashoka Buildcon,4.2,350 Reviews,Public,Nashik + 45 more,44 years old,1001-5000 employees
+684,Musashi Auto Parts,4.1,350 Reviews,Private,Gurgaon + 7 more,18 years old,10000+ employees
+685,DuPont,4.5,349 Reviews,Private,"Wilmington,DE,United States + 41 more",218 years old,10000+ employees
+686,Biological E,4.2,348 Reviews,Private,Hyderabad + 12 more,67 years old,1001-5000 employees
+687,Gionee,4.0,348 Reviews,Private,Shenzhen + 49 more,18 years old,1001-5000 employees
+688,Medlife,3.4,348 Reviews,Private,Bangalore + 21 more,6 years old,1001-5000 employees
+689,Godrej Consumer Products,4.3,346 Reviews,Public,Mumbai + 46 more,19 years old,10000+ employees
+690,Bank of India,4.0,344 Reviews,Private,Mumbai + 47 more,114 years old,10000+ employees
+691,Sri Chaitanya Educationa...,3.9,344 Reviews,Private,"Hyderabad,Telangana + 34 more",34 years old,1001-5000 employees
+692,Fino Paytech,4.0,344 Reviews,Mumbai + 46 more,3 years old,1001-5000 employees,
+693,Microsoft Corporation,4.2,343 Reviews,Private,Redmond + 26 more,45 years old,10000+ employees
+694,Kirloskar Brothers,4.1,343 Reviews,Public,Pune + 45 more,132 years old,1001-5000 employees
+695,Faurecia,3.8,343 Reviews,Private,Nanterre + 16 more,23 years old,10000+ employees
+696,SNC Lavalin Internationa...,4.3,343 Reviews,Public,Montreal + 34 more,109 years old,10000+ employees
+697,Amneal Pharmaceuticals,4.4,343 Reviews,Private,New Jersey + 11 more,18 years old,5001-10000 employees
+698,Siemens Gamesa Renewable...,4.3,342 Reviews,Private,Vizcaya + 23 more,44 years old,10000+ employees
+699,Shriram Life Insurance,3.9,341 Reviews,Private,Hyderabad + 47 more,15 years old,1001-5000 employees
+700,McNally Bharat Engineeri...,4.0,340 Reviews,Public,Kolkata + 32 more,59 years old,1001-5000 employees
+701,CARS24.com,3.1,340 Reviews,Private,Gurgaon + 31 more,5 years old,1001-5000 employees
+702,Mondelez International,4.4,339 Reviews,Private,"Greater Chicago Area,IL + 47 more",117 years old,10000+ employees
+703,Team Computers,3.9,338 Reviews,Private,New Delhi + 36 more,33 years old,1001-5000 employees
+704,Gmmco,4.4,338 Reviews,Private,Chennai + 44 more,53 years old,1001-5000 employees
+705,Marks & Spencer,4.5,338 Reviews,Private,London + 35 more,136 years old,10000+ employees
+706,Caterpillar Inc,4.2,336 Reviews,Private,California + 14 more,95 years old,10000+ employees
+707,Intellect Design Arena,3.0,336 Reviews,Public,Chennai + 17 more,9 years old,1001-5000 employees
+708,GVK Biosciences,3.9,336 Reviews,Private,Hyderabad + 6 more,20 years old,1001-5000 employees
+709,Yashoda Hospitals,3.9,336 Reviews,Private,Hyderabad + 11 more,35 years old,1001-5000 employees
+710,R R Donnelley Global Ind...,4.2,336 Reviews,Chicago + 3 more,25 years old,10000+ employees,
+711,Scope International,4.0,335 Reviews,Private,Mannheim + 5 more,19 years old,201-500 employees
+712,NSE.IT,3.6,335 Reviews,Public,Mumbai + 47 more,21 years old,1001-5000 employees
+713,S&P Global Market Intell...,3.9,334 Reviews,Private,New York + 5 more,111 years old,10000+ employees
+714,Egis  India Consulting E...,4.1,334 Reviews,Private,Gurgaon + 45 more,15 years old,10000+ employees
+715,Jones Lang LaSalle Prope...,4.3,333 Reviews,Private,Kolkata + 26 more,21 years old,10000+ employees
+716,Greaves Cotton,4.1,332 Reviews,Public,Mumbai + 18 more,161 years old,1001-5000 employees
+717,Polycab Wires,4.0,332 Reviews,Private,Mumbai + 40 more,24 years old,5001-10000 employees
+718,Everest Industries,4.0,332 Reviews,Public,Noida + 44 more,86 years old,1001-5000 employees
+719,Cox & Kings,4.0,331 Reviews,Private,"Mumbai,India + 47 more",262 years old,1001-5000 employees
+720,Colgate Palmolive,4.3,331 Reviews,Public,New York + 47 more,214 years old,10000+ employees
+721,Kirloskar Oil Engines,4.2,330 Reviews,Public,Pune + 45 more,74 years old,5001-10000 employees
+722,Hindustan Zinc,3.9,330 Reviews,Public,Udaipur + 15 more,24 years old,10000+ employees
+723,Future Supply Chain Solu...,4.2,330 Reviews,Public,Mumbai + 44 more,13 years old,1001-5000 employees
+724,Reliance Capital,3.9,329 Reviews,Public,Mumbai + 47 more,34 years old,10000+ employees
+725,Atul,4.1,329 Reviews,Public,Gujarat + 23 more,73 years old,1001-5000 employees
+726,Sundaram Finance,4.4,328 Reviews,Public,Chennai + 46 more,66 years old,501-1000 employees
+727,Feedback Infra,4.1,328 Reviews,Private,Gurugram + 49 more,30 years old,5001-10000 employees
+728,Knoah Solutions,3.7,328 Reviews,Private,Henderson + 1 more,19 years old,1001-5000 employees
+729,Future Focus Infotech,3.5,327 Reviews,Private,Chennai + 36 more,23 years old,1001-5000 employees
+730,ZTE Corporation,3.8,327 Reviews,Private,Shenzhen + 40 more,35 years old,10000+ employees
+731,Ion Exchange India,3.9,327 Reviews,Public,Mumbai + 46 more,56 years old,1001-5000 employees
+732,Spicejet,3.8,327 Reviews,Public,"Gurgaon,Haryana + 28 more",15 years old,10000+ employees
+733,VLCC,3.5,327 Reviews,Private,New Delhi + 45 more,31 years old,1001-5000 employees
+734,HTC Global Services,3.6,326 Reviews,Private,Michigan + 12 more,30 years old,10000+ employees
+735,Omaxe,3.8,326 Reviews,Public,New Delhi + 16 more,33 years old,1001-5000 employees
+736,Electrosteel Steels,4.1,326 Reviews,Public,Jharkhand + 8 more,14 years old,5001-10000 employees
+737,Harris Coordinated Care ...,3.8,325 Reviews,Private,Sarasota + 14 more,3 years old,10000+ employees
+738,LG Balakrishnan and Bros,3.9,325 Reviews,Public,Coimbatore + 17 more,83 years old,1001-5000 employees
+739,Mando Automotive,4.0,325 Reviews,Private,Chennai + 9 more,23 years old,1001-5000 employees
+740,ZOMATO,3.9,324 Reviews,Private,Gurgaon + 48 more,12 years old,1001-5000 employees
+741,Mahle Filter Systems,4.2,324 Reviews,Private,"Stuttgart,Germany + 17 more",15 years old,10000+ employees
+742,Lanco Infratech,4.3,323 Reviews,Public,New Delhi + 30 more,34 years old,10000+ employees
+743,Tenneco,3.9,323 Reviews,Private,"Lake Forest,Illinois + 14 more",21 years old,10000+ employees
+744,L&T Hydrocarbon Engineer...,4.1,322 Reviews,Private,Mumbai + 28 more,82 years old,5001-10000 employees
+745,Hyatt,4.5,322 Reviews,Private,Chicago + 22 more,63 years old,10000+ employees
+746,ISON BPO,3.5,322 Reviews,Private,Lagos + 20 more,9 years old,10000+ employees
+747,AstraZeneca,4.1,321 Reviews,Public,"Cambridge,Cambridgeshire + 27 more",21 years old,10000+ employees
+748,Supreme Industries,4.1,321 Reviews,Public,Mumbai + 40 more,78 years old,1001-5000 employees
+749,PNB Housing Finance,4.3,321 Reviews,Public,New Delhi + 46 more,32 years old,1001-5000 employees
+750,Podar International Scho...,4.1,321 Reviews,Private,Mumbai + 48 more,93 years old,5001-10000 employees
+751,Compass Group,4.1,321 Reviews,Private,Chertsey + 31 more,79 years old,10000+ employees
+752,Orient Craft,4.0,320 Reviews,Private,Gurgaon + 7 more,42 years old,10000+ employees
+753,Mahindra First Choice Wh...,4.0,320 Reviews,Private,Mumbai + 49 more,13 years old,501-1000 employees
+754,PI Industries,4.0,320 Reviews,Public,Gurgaon + 43 more,74 years old,1001-5000 employees
+755,DAV Public School,4.2,320 Reviews,Private,New Delhi + 46 more,35 years old,5001-10000 employees
+756,Thomas Cook,4.0,319 Reviews,Public,London + 47 more,179 years old,10000+ employees
+757,Atlas Copco,4.3,319 Reviews,Public,Stockholm + 35 more,147 years old,10000+ employees
+758,Imperial Auto Industries,3.9,319 Reviews,Public,Faridabad + 21 more,51 years old,1001-5000 employees
+759,Centum Electronics,3.8,319 Reviews,Public,Bangalore + 6 more,26 years old,1001-5000 employees
+760,C&S Electric,4.1,318 Reviews,Private,New Delhi + 28 more,54 years old,5001-10000 employees
+761,Spandana Sphoorty Financ...,3.6,318 Reviews,Public,Hyderabad + 48 more,22 years old,10000+ employees
+762,Saudi Binladin Group,4.3,318 Reviews,Private,Jeddah + 18 more,89 years old,10000+ employees
+763,HBL Global,4.0,316 Reviews,Private,Mumbai + 48 more,20 years old,10000+ employees
+764,Escorts Group,4.2,316 Reviews,Public,Faridabad + 45 more,72 years old,5001-10000 employees
+765,Nagarro,4.1,316 Reviews,Private,Munich + 3 more,24 years old,5001-10000 employees
+766,Granules India,4.2,316 Reviews,Public,Hyderabad + 1 more,36 years old,1001-5000 employees
+767,Indo-US MIM Tec,4.2,316 Reviews,Private,"Ann Arbor,MI + 6 more",24 years old,501-1000 employees
+768,Central Industrial Secur...,4.6,316 Reviews,Govt Organisation,New Delhi + 46 more,51 years old,10000+ employees
+769,EMC Corporation,4.0,315 Reviews,Subsidiary,"Hopkinton,MA (US) + 34 more",41 years old,10000+ employees
+770,Kochar Infotech,3.8,315 Reviews,Private,GURUGRAM + 10 more,33 years old,1001-5000 employees
+771,Vibgyor High School,3.6,315 Reviews,Private,Mumbai + 8 more,16 years old,1001-5000 employees
+772,Inox Wind,3.7,315 Reviews,Public,Noida + 21 more,11 years old,5001-10000 employees
+773,Magus Customer Dialog,3.7,314 Reviews,Private,Banglore + 12 more,31 years old,1001-5000 employees
+774,OMICS International,2.7,314 Reviews,Private,Hyderabad + 4 more,12 years old,1001-5000 employees
+775,ESAF Microfinance & Inve...,3.8,314 Reviews,Private,Kerala + 42 more,25 years old,1001-5000 employees
+776,AAVAS Financiers,3.8,314 Reviews,Public,Jaipur + 48 more,9 years old,1001-5000 employees
+777,Redington,4.2,313 Reviews,Public,Chennai + 39 more,27 years old,1001-5000 employees
+778,Bestseller Retail India,4.3,313 Reviews,Private,Mumbai + 39 more,11 years old,10000+ employees
+779,Eaton Corporation,4.1,312 Reviews,Public,Dublin + 11 more,109 years old,10000+ employees
+780,Uttam Galva Steels,3.6,312 Reviews,Public,Mumbai + 11 more,35 years old,1001-5000 employees
+781,Slk Software Services,3.5,311 Reviews,Private,Bangalore + 3 more,20 years old,5001-10000 employees
+782,Intertek,3.9,311 Reviews,Private,London + 28 more,135 years old,10000+ employees
+783,Central Public Works Dep...,4.2,311 Reviews,Private,New Delhi + 47 more,166 years old,1001-5000 employees
+784,Leighton Contractors,4.4,311 Reviews,Private,Hong Kong + 15 more,45 years old,10000+ employees
+785,Larsen & Toubro Limited,4.1,310 Reviews,Mumbai + 45 more,82 years old,,
+786,Bisleri,4.1,310 Reviews,Private,Mumbai + 46 more,55 years old,1001-5000 employees
+787,Xerox,3.7,309 Reviews,Private,Norwalk + 19 more,114 years old,10000+ employees
+788,MiraMed Ajuba,4.1,309 Reviews,Private,Chennai + 4 more,19 years old,5001-10000 employees
+789,Mahindra CIE Automotive,4.0,309 Reviews,Public,Mumbai + 15 more,21 years old,5001-10000 employees
+790,Infinite Computer Soluti...,3.7,307 Reviews,Public,Bangalore + 16 more,21 years old,5001-10000 employees
+791,Parexel International,3.9,307 Reviews,Private,Billerica + 2 more,38 years old,10000+ employees
+792,Perfetti Van Melle,4.3,307 Reviews,Private,Lainate + 44 more,19 years old,10000+ employees
+793,Ingram Micro,3.8,306 Reviews,Private,Irvine + 35 more,41 years old,10000+ employees
+794,Sintex Industries,4.0,306 Reviews,Public,Kalol + 38 more,89 years old,5001-10000 employees
+795,Sanden Vikas,3.9,306 Reviews,Private,New Delhi + 14 more,38 years old,501-1000 employees
+796,Annapurna Finance,4.1,306 Reviews,Bhubaneswar + 47 more,11 years old,1001-5000 employees,
+797,Flash Electronics,3.4,305 Reviews,Private,New Delhi + 9 more,31 years old,1001-5000 employees
+798,Essjay Ericsson,3.9,304 Reviews,Private,Delhi + 48 more,49 years old,1001-5000 employees
+799,DCM Shriram,4.2,304 Reviews,Public,New Delhi + 34 more,30 years old,5001-10000 employees
+800,SBI General Insurance,3.9,303 Reviews,Private,Mumbai + 47 more,10 years old,10000+ employees
+801,Burger King,4.1,303 Reviews,Private,Miami + 40 more,66 years old,10000+ employees
+802,OCS Group,4.0,303 Reviews,Private,West Sussex + 33 more,120 years old,10000+ employees
+803,Tradeindia.com,3.7,302 Reviews,Private,New Delhi + 32 more,24 years old,1001-5000 employees
+804,Quikr,3.5,301 Reviews,Private,Bangalore + 18 more,12 years old,1001-5000 employees
+805,General Motors,4.5,300 Reviews,Private,Detroit + 24 more,112 years old,10000+ employees
+806,FLSmidth,4.0,300 Reviews,Private,Copenhagen + 17 more,138 years old,10000+ employees
+807,Eveready Industries,4.0,300 Reviews,Public,Kolkata + 43 more,115 years old,1001-5000 employees
+808,The Lalit,4.0,300 Reviews,Partnership,New Delhi + 18 more,39 years old,1001-5000 employees
+809,Aristo Pharmaceuticals,4.0,300 Reviews,Private,Mumbai + 46 more,49 years old,1001-5000 employees
+810,Varroc Polymers,3.9,300 Reviews,Private,Maharashtra + 21 more,32 years old,10000+ employees
+811,Huhtamaki,4.2,300 Reviews,Private,Espoo + 18 more,100 years old,10000+ employees
+812,Dhoot Transmission,3.6,300 Reviews,Private,Aurangabad + 9 more,21 years old,201-500 employees
+813,Alok Industries,4.1,299 Reviews,Public,Mumbai + 13 more,34 years old,10000+ employees
+814,VIP Industries,4.2,299 Reviews,Public,Mumbai + 48 more,49 years old,1001-5000 employees
+815,Haier Appliances India,4.0,299 Reviews,Private,New Delhi + 47 more,36 years old,1001-5000 employees
+816,Syngenta,4.1,297 Reviews,Private,Basel + 49 more,20 years old,10000+ employees
+817,Air India Sats Airport S...,3.9,297 Reviews,Private,Mumbai + 8 more,12 years old,5001-10000 employees
+818,IL&FS Engineering and Co...,4.2,297 Reviews,Public,Hyderabad + 37 more,32 years old,1001-5000 employees
+819,Border Security Force,4.4,297 Reviews,Govt Organisation,New Delhi + 44 more,55 years old,10000+ employees
+820,Hatsun Agro Product,4.3,296 Reviews,Public,Chennai + 37 more,50 years old,5001-10000 employees
+821,Mahindra Tractors,4.5,296 Reviews,Private,Mumbai + 46 more,75 years old,10000+ employees
+822,Mdindia Health Insurance...,3.9,296 Reviews,Private,Pune + 35 more,20 years old,501-1000 employees
+823,GKN Driveline,4.0,296 Reviews,Private,Redditch + 13 more,129 years old,10000+ employees
+824,Dell EMC,4.0,295 Reviews,Private,Hopkinton + 9 more,41 years old,10000+ employees
+825,Fidelity National Financ...,3.8,295 Reviews,Private,Jacksonville + 3 more,173 years old,10000+ employees
+826,Schoolnet India,3.9,295 Reviews,Public,Mumbai + 49 more,23 years old,10000+ employees
+827,Valeo,3.8,294 Reviews,Private,Paris + 12 more,97 years old,10000+ employees
+828,Steag Energy Services,4.2,294 Reviews,Private,Essen + 21 more,83 years old,5001-10000 employees
+829,Anchor Electricals,4.2,293 Reviews,Private,Thane + 49 more,57 years old,10000+ employees
+830,Canara Bank,4.2,293 Reviews,Public,Bangalore + 44 more,114 years old,10000+ employees
+831,Oriental Structural Engi...,4.3,293 Reviews,Private,New Delhi + 34 more,49 years old,10000+ employees
+832,Fincare Small Finance Ba...,3.7,293 Reviews,Bangalore + 48 more,3 years old,5001-10000 employees,
+833,PNC Infratech,4.0,292 Reviews,Public,Agra + 27 more,31 years old,1001-5000 employees
+834,Navayuga Engineering Com...,4.1,291 Reviews,Private,Hyderabad + 28 more,34 years old,1001-5000 employees
+835,Rockman Industries,4.2,291 Reviews,Private,New Delhi + 17 more,60 years old,5001-10000 employees
+836,Sona Koyo Steering Syste...,4.3,289 Reviews,Private,Gurugram + 13 more,35 years old,1001-5000 employees
+837,Evalueserve,3.2,287 Reviews,Private,Schaffhausen + 3 more,20 years old,1001-5000 employees
+838,First Flight Couriers,3.9,286 Reviews,Private,Mumbai + 48 more,10000+ employees,
+839,Automatic Data Processin...,4.1,286 Reviews,New Jersey + 3 more,71 years old,10000+ employees,
+840,IDBI Federal Life Insura...,3.7,286 Reviews,Private,Mumbai + 47 more,13 years old,1001-5000 employees
+841,Otis Elevator,4.2,286 Reviews,Private,Farmington + 41 more,167 years old,10000+ employees
+842,Vivanta by Taj,4.4,286 Reviews,Private,Mumbai + 30 more,10 years old,10000+ employees
+843,Toppr,2.7,286 Reviews,Private,Mumbai + 28 more,7 years old,1001-5000 employees
+844,Wheels,4.1,285 Reviews,Public,"Des Plaines,IL (US) + 11 more",81 years old,501-1000 employees
+845,SBICAP Securities,3.8,285 Reviews,Public,Mumbai + 45 more,34 years old,1001-5000 employees
+846,Jakson Group,4.0,285 Reviews,Private,Noida + 43 more,73 years old,1001-5000 employees
+847,Shubham Housing Developm...,4.2,285 Reviews,Private,Gurugram + 49 more,10 years old,1001-5000 employees
+848,Century Plyboards,4.0,284 Reviews,Public,Kolkata + 46 more,34 years old,1001-5000 employees
+849,Synchrony Financial,4.5,284 Reviews,Private,Stamford + 2 more,17 years old,10000+ employees
+850,LOREAL,4.3,283 Reviews,Private,Clichy + 36 more,111 years old,10000+ employees
+851,THE LEELA PALACES HOTELS...,4.4,283 Reviews,Private,Mumbai + 16 more,34 years old,10000+ employees
+852,Sansera Engineering,4.2,282 Reviews,Public,Bangalore + 10 more,39 years old,10000+ employees
+853,Vakrangee,3.8,282 Reviews,Public,Mumbai + 46 more,30 years old,1001-5000 employees
+854,Genius Consultants,3.8,281 Reviews,Private,Kolkata + 45 more,27 years old,1001-5000 employees
+855,HSIL,4.0,279 Reviews,Public,Gurgaon + 38 more,60 years old,1001-5000 employees
+856,Reliance Power,4.1,279 Reviews,Public,Navi Mumbai + 22 more,25 years old,1001-5000 employees
+857,Nagarjuna Fertilizers an...,4.2,279 Reviews,Private,Hyderabad + 47 more,35 years old,1001-5000 employees
+858,ICA Edu Skills,3.6,279 Reviews,Private,Kolkata + 43 more,21 years old,1001-5000 employees
+859,HBL Power Systems,4.0,278 Reviews,Public,Hyderabad + 28 more,43 years old,1001-5000 employees
+860,Continental Automotive C...,4.1,278 Reviews,Private,Hanover + 6 more,149 years old,10000+ employees
+861,Suzuki Motorcycle,4.1,278 Reviews,Private,Hamamatsu + 42 more,111 years old,10000+ employees
+862,Frankfinn Institute of A...,3.0,278 Reviews,Private,New Delhi + 37 more,27 years old,1001-5000 employees
+863,IFB,3.8,277 Reviews,Public,Kolkata + 47 more,46 years old,1001-5000 employees
+864,Pine Labs,4.0,277 Reviews,Private,New Delhi + 44 more,22 years old,1001-5000 employees
+865,Infrastructure Leasing &...,4.0,276 Reviews,Private,Mumbai + 47 more,33 years old,1001-5000 employees
+866,Secure Meters,4.2,276 Reviews,Public,Eastleigh + 29 more,33 years old,5001-10000 employees
+867,TE Connectivity,4.2,275 Reviews,Private,Schaffhausen + 7 more,13 years old,10000+ employees
+868,ZF Steering Gear India L...,3.5,275 Reviews,Public,Pune + 4 more,39 years old,1001-5000 employees
+869,Competent Software,3.7,275 Reviews,Private,New Delhi + 5 more,24 years old,1001-5000 employees
